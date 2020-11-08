@@ -13,7 +13,7 @@ async function getData(page, poi, result) {
 
   await page.click('#localsearch');
 
-  await page.waitFor(1000);
+  await page.waitForTimeout(1000);
 
   const item = await page.evaluate(() => {
     const target = document.querySelector('#no_0 > p');
@@ -31,13 +31,17 @@ async function getData(page, poi, result) {
 }
 
 module.exports = async function () {
-  const browser = await puppeteer.launch({ headless: false, ignoreHTTPSErrors: true });
+  const browser = await puppeteer.launch({
+    headless: false,
+    ignoreHTTPSErrors: true,
+    args: ['--start-maximized']
+  });
 
   const page = await browser.newPage();
 
   page.setDefaultNavigationTimeout(0);
 
-  await page.setViewport({ width: 1280, height: 800 });
+  await page.setViewport({ width: 2000, height: 800 });
 
   await page.goto('http://api.map.baidu.com/lbsapi/getpoint/');
 
