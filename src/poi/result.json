@@ -1,0 +1,7418 @@
+[
+  {
+    "area": "北京",
+    "position": "万寿西宫"
+  },
+  {
+    "area": "北京",
+    "position": "定陵"
+  },
+  {
+    "area": "北京",
+    "position": "东四"
+  },
+  {
+    "area": "北京",
+    "position": "天坛"
+  },
+  {
+    "area": "北京",
+    "position": "农展馆"
+  },
+  {
+    "area": "北京",
+    "position": "官园"
+  },
+  {
+    "area": "北京",
+    "position": "海淀区万柳"
+  },
+  {
+    "area": "北京",
+    "position": "顺义新城"
+  },
+  {
+    "area": "北京",
+    "position": "怀柔镇"
+  },
+  {
+    "area": "北京",
+    "position": "昌平镇"
+  },
+  {
+    "area": "北京",
+    "position": "奥体中心"
+  },
+  {
+    "area": "北京",
+    "position": "古城"
+  },
+  {
+    "area": "天津",
+    "position": "市监测中心"
+  },
+  {
+    "area": "天津",
+    "position": "南京路"
+  },
+  {
+    "area": "天津",
+    "position": "北辰科技园区"
+  },
+  {
+    "area": "天津",
+    "position": "天山路"
+  },
+  {
+    "area": "天津",
+    "position": "永明路"
+  },
+  {
+    "area": "天津",
+    "position": "团泊洼"
+  },
+  {
+    "area": "石家庄",
+    "position": "化工学校"
+  },
+  {
+    "area": "石家庄",
+    "position": "职工医院"
+  },
+  {
+    "area": "石家庄",
+    "position": "高新区"
+  },
+  {
+    "area": "石家庄",
+    "position": "西北水源"
+  },
+  {
+    "area": "石家庄",
+    "position": "西南高教"
+  },
+  {
+    "area": "石家庄",
+    "position": "世纪公园"
+  },
+  {
+    "area": "石家庄",
+    "position": "人民会堂"
+  },
+  {
+    "area": "石家庄",
+    "position": "封龙山"
+  },
+  {
+    "area": "唐山",
+    "position": "供销社"
+  },
+  {
+    "area": "唐山",
+    "position": "雷达站"
+  },
+  {
+    "area": "唐山",
+    "position": "物资局"
+  },
+  {
+    "area": "唐山",
+    "position": "陶瓷公司"
+  },
+  {
+    "area": "唐山",
+    "position": "十二中"
+  },
+  {
+    "area": "唐山",
+    "position": "小山"
+  },
+  {
+    "area": "秦皇岛",
+    "position": "北戴河环保局"
+  },
+  {
+    "area": "秦皇岛",
+    "position": "第一关"
+  },
+  {
+    "area": "秦皇岛",
+    "position": "监测站"
+  },
+  {
+    "area": "秦皇岛",
+    "position": "市政府"
+  },
+  {
+    "area": "秦皇岛",
+    "position": "建设大厦"
+  },
+  {
+    "area": "邯郸",
+    "position": "环保局"
+  },
+  {
+    "area": "邯郸",
+    "position": "东污水处理厂"
+  },
+  {
+    "area": "邯郸",
+    "position": "矿院"
+  },
+  {
+    "area": "邯郸",
+    "position": "丛台公园"
+  },
+  {
+    "area": "保定",
+    "position": "游泳馆"
+  },
+  {
+    "area": "保定",
+    "position": "华电二区"
+  },
+  {
+    "area": "保定",
+    "position": "接待中心"
+  },
+  {
+    "area": "保定",
+    "position": "地表水厂"
+  },
+  {
+    "area": "保定",
+    "position": "胶片厂"
+  },
+  {
+    "area": "保定",
+    "position": "监测站"
+  },
+  {
+    "area": "张家口",
+    "position": "人民公园"
+  },
+  {
+    "area": "张家口",
+    "position": "探机厂"
+  },
+  {
+    "area": "张家口",
+    "position": "五金库"
+  },
+  {
+    "area": "张家口",
+    "position": "世纪豪园"
+  },
+  {
+    "area": "张家口",
+    "position": "北泵房"
+  },
+  {
+    "area": "承德",
+    "position": "铁路"
+  },
+  {
+    "area": "承德",
+    "position": "中国银行"
+  },
+  {
+    "area": "承德",
+    "position": "开发区"
+  },
+  {
+    "area": "承德",
+    "position": "文化中心"
+  },
+  {
+    "area": "承德",
+    "position": "离宫"
+  },
+  {
+    "area": "廊坊",
+    "position": "药材公司"
+  },
+  {
+    "area": "廊坊",
+    "position": "开发区"
+  },
+  {
+    "area": "廊坊",
+    "position": "环境监测监理中心"
+  },
+  {
+    "area": "廊坊",
+    "position": "北华航天学院"
+  },
+  {
+    "area": "沧州",
+    "position": "沧县城建局"
+  },
+  {
+    "area": "沧州",
+    "position": "电视转播站"
+  },
+  {
+    "area": "沧州",
+    "position": "市环保局"
+  },
+  {
+    "area": "衡水",
+    "position": "电机北厂"
+  },
+  {
+    "area": "衡水",
+    "position": "市监测站"
+  },
+  {
+    "area": "衡水",
+    "position": "市环保局"
+  },
+  {
+    "area": "邢台",
+    "position": "达活泉"
+  },
+  {
+    "area": "邢台",
+    "position": "邢师高专"
+  },
+  {
+    "area": "邢台",
+    "position": "路桥公司"
+  },
+  {
+    "area": "邢台",
+    "position": "市环保局"
+  },
+  {
+    "area": "太原",
+    "position": "尖草坪"
+  },
+  {
+    "area": "太原",
+    "position": "涧河"
+  },
+  {
+    "area": "太原",
+    "position": "上兰"
+  },
+  {
+    "area": "太原",
+    "position": "晋源"
+  },
+  {
+    "area": "太原",
+    "position": "小店"
+  },
+  {
+    "area": "太原",
+    "position": "桃园"
+  },
+  {
+    "area": "太原",
+    "position": "坞城"
+  },
+  {
+    "area": "太原",
+    "position": "南寨"
+  },
+  {
+    "area": "太原",
+    "position": "金胜"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "呼市一监"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "小召"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "兴松小区"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "糖厂"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "如意水处理厂"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "二十九中"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "工大金川校区"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "化肥厂生活区"
+  },
+  {
+    "area": "沈阳",
+    "position": "小河沿"
+  },
+  {
+    "area": "沈阳",
+    "position": "太原街"
+  },
+  {
+    "area": "大连",
+    "position": "甘井子"
+  },
+  {
+    "area": "大连",
+    "position": "周水子"
+  },
+  {
+    "area": "大连",
+    "position": "星海三站"
+  },
+  {
+    "area": "大连",
+    "position": "青泥洼桥"
+  },
+  {
+    "area": "大连",
+    "position": "傅家庄"
+  },
+  {
+    "area": "大连",
+    "position": "七贤岭"
+  },
+  {
+    "area": "大连",
+    "position": "旅顺"
+  },
+  {
+    "area": "大连",
+    "position": "金州"
+  },
+  {
+    "area": "大连",
+    "position": "开发区"
+  },
+  {
+    "area": "大连",
+    "position": "双D港"
+  },
+  {
+    "area": "长春",
+    "position": "食品厂"
+  },
+  {
+    "area": "长春",
+    "position": "客车厂"
+  },
+  {
+    "area": "长春",
+    "position": "邮电学院"
+  },
+  {
+    "area": "长春",
+    "position": "劳动公园"
+  },
+  {
+    "area": "长春",
+    "position": "园林处"
+  },
+  {
+    "area": "长春",
+    "position": "净月潭"
+  },
+  {
+    "area": "长春",
+    "position": "甩湾子"
+  },
+  {
+    "area": "长春",
+    "position": "经开区环卫处"
+  },
+  {
+    "area": "长春",
+    "position": "高新区管委会"
+  },
+  {
+    "area": "长春",
+    "position": "岱山公园"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "岭北"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "松北商大"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "阿城会宁"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "南岗学府路"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "太平宏伟公园"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "道外承德广场"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "香坊红旗大街"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "动力和平路"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "道里建国路"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "平房东轻厂"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "呼兰师专"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "省农科院"
+  },
+  {
+    "area": "上海",
+    "position": "十五厂"
+  },
+  {
+    "area": "上海",
+    "position": "虹口"
+  },
+  {
+    "area": "上海",
+    "position": "徐汇上师大"
+  },
+  {
+    "area": "上海",
+    "position": "杨浦四漂"
+  },
+  {
+    "area": "上海",
+    "position": "青浦淀山湖"
+  },
+  {
+    "area": "上海",
+    "position": "静安监测站"
+  },
+  {
+    "area": "上海",
+    "position": "浦东川沙"
+  },
+  {
+    "area": "上海",
+    "position": "浦东新区监测站"
+  },
+  {
+    "area": "上海",
+    "position": "浦东张江"
+  },
+  {
+    "area": "南京",
+    "position": "迈皋桥"
+  },
+  {
+    "area": "南京",
+    "position": "草场门"
+  },
+  {
+    "area": "南京",
+    "position": "山西路"
+  },
+  {
+    "area": "南京",
+    "position": "中华门"
+  },
+  {
+    "area": "南京",
+    "position": "瑞金路"
+  },
+  {
+    "area": "南京",
+    "position": "玄武湖"
+  },
+  {
+    "area": "南京",
+    "position": "浦口"
+  },
+  {
+    "area": "南京",
+    "position": "奥体中心"
+  },
+  {
+    "area": "南京",
+    "position": "仙林大学城"
+  },
+  {
+    "area": "苏州",
+    "position": "上方山"
+  },
+  {
+    "area": "苏州",
+    "position": "南门"
+  },
+  {
+    "area": "苏州",
+    "position": "彩香"
+  },
+  {
+    "area": "苏州",
+    "position": "轧钢厂"
+  },
+  {
+    "area": "苏州",
+    "position": "吴中区"
+  },
+  {
+    "area": "苏州",
+    "position": "苏州新区"
+  },
+  {
+    "area": "苏州",
+    "position": "苏州工业园区"
+  },
+  {
+    "area": "苏州",
+    "position": "相城区"
+  },
+  {
+    "area": "南通",
+    "position": "南郊"
+  },
+  {
+    "area": "南通",
+    "position": "虹桥"
+  },
+  {
+    "area": "南通",
+    "position": "城中"
+  },
+  {
+    "area": "南通",
+    "position": "星湖花园"
+  },
+  {
+    "area": "南通",
+    "position": "紫琅学院"
+  },
+  {
+    "area": "连云港",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "连云港",
+    "position": "洪门派出所"
+  },
+  {
+    "area": "连云港",
+    "position": "墟沟核电专家村"
+  },
+  {
+    "area": "连云港",
+    "position": "开发区恒瑞医药公司"
+  },
+  {
+    "area": "徐州",
+    "position": "黄河新村"
+  },
+  {
+    "area": "徐州",
+    "position": "淮塔"
+  },
+  {
+    "area": "徐州",
+    "position": "铜山兽医院"
+  },
+  {
+    "area": "徐州",
+    "position": "新城区"
+  },
+  {
+    "area": "徐州",
+    "position": "桃园路"
+  },
+  {
+    "area": "徐州",
+    "position": "农科院"
+  },
+  {
+    "area": "徐州",
+    "position": "铜山区环保局"
+  },
+  {
+    "area": "扬州",
+    "position": "城东财政所"
+  },
+  {
+    "area": "扬州",
+    "position": "市监测站"
+  },
+  {
+    "area": "扬州",
+    "position": "邗江监测站"
+  },
+  {
+    "area": "扬州",
+    "position": "第四医院"
+  },
+  {
+    "area": "无锡",
+    "position": "曹张"
+  },
+  {
+    "area": "无锡",
+    "position": "漆塘"
+  },
+  {
+    "area": "无锡",
+    "position": "东亭"
+  },
+  {
+    "area": "无锡",
+    "position": "旺庄"
+  },
+  {
+    "area": "无锡",
+    "position": "堰桥"
+  },
+  {
+    "area": "常州",
+    "position": "市监测站"
+  },
+  {
+    "area": "常州",
+    "position": "城建学校"
+  },
+  {
+    "area": "常州",
+    "position": "常工院"
+  },
+  {
+    "area": "常州",
+    "position": "潞城"
+  },
+  {
+    "area": "常州",
+    "position": "武进监测站"
+  },
+  {
+    "area": "常州",
+    "position": "安家"
+  },
+  {
+    "area": "镇江",
+    "position": "环境监测站"
+  },
+  {
+    "area": "镇江",
+    "position": "新区办事处"
+  },
+  {
+    "area": "镇江",
+    "position": "职教中心"
+  },
+  {
+    "area": "镇江",
+    "position": "丹徒区监测站"
+  },
+  {
+    "area": "泰州",
+    "position": "公园路"
+  },
+  {
+    "area": "泰州",
+    "position": "莲花"
+  },
+  {
+    "area": "泰州",
+    "position": "高港区政府"
+  },
+  {
+    "area": "泰州",
+    "position": "留学生创业园"
+  },
+  {
+    "area": "淮安",
+    "position": "钵池山"
+  },
+  {
+    "area": "淮安",
+    "position": "北京南路"
+  },
+  {
+    "area": "淮安",
+    "position": "市监测站"
+  },
+  {
+    "area": "淮安",
+    "position": "楚州区监测站"
+  },
+  {
+    "area": "淮安",
+    "position": "淮阴区监测站"
+  },
+  {
+    "area": "盐城",
+    "position": "盐城电厂"
+  },
+  {
+    "area": "盐城",
+    "position": "市监测站"
+  },
+  {
+    "area": "盐城",
+    "position": "文峰中学"
+  },
+  {
+    "area": "盐城",
+    "position": "开发区管委会"
+  },
+  {
+    "area": "宿迁",
+    "position": "市监测站"
+  },
+  {
+    "area": "宿迁",
+    "position": "宿迁学院"
+  },
+  {
+    "area": "宿迁",
+    "position": "宿迁中学"
+  },
+  {
+    "area": "宿迁",
+    "position": "宿豫区环保局"
+  },
+  {
+    "area": "杭州",
+    "position": "滨江"
+  },
+  {
+    "area": "杭州",
+    "position": "西溪"
+  },
+  {
+    "area": "杭州",
+    "position": "千岛湖"
+  },
+  {
+    "area": "杭州",
+    "position": "下沙"
+  },
+  {
+    "area": "杭州",
+    "position": "卧龙桥"
+  },
+  {
+    "area": "杭州",
+    "position": "浙江农大"
+  },
+  {
+    "area": "杭州",
+    "position": "朝晖五区"
+  },
+  {
+    "area": "杭州",
+    "position": "和睦小学"
+  },
+  {
+    "area": "杭州",
+    "position": "临平镇"
+  },
+  {
+    "area": "杭州",
+    "position": "城厢镇"
+  },
+  {
+    "area": "杭州",
+    "position": "云栖"
+  },
+  {
+    "area": "宁波",
+    "position": "区环保大楼"
+  },
+  {
+    "area": "宁波",
+    "position": "万里学院"
+  },
+  {
+    "area": "宁波",
+    "position": "龙赛医院"
+  },
+  {
+    "area": "宁波",
+    "position": "三江中学"
+  },
+  {
+    "area": "宁波",
+    "position": "市政管理站"
+  },
+  {
+    "area": "宁波",
+    "position": "钱湖水厂"
+  },
+  {
+    "area": "宁波",
+    "position": "太古小学"
+  },
+  {
+    "area": "宁波",
+    "position": "市环境监测中心"
+  },
+  {
+    "area": "温州",
+    "position": "瓯海"
+  },
+  {
+    "area": "温州",
+    "position": "南浦"
+  },
+  {
+    "area": "温州",
+    "position": "龙湾"
+  },
+  {
+    "area": "温州",
+    "position": "市站"
+  },
+  {
+    "area": "绍兴",
+    "position": "袍江站"
+  },
+  {
+    "area": "绍兴",
+    "position": "城东开发委"
+  },
+  {
+    "area": "绍兴",
+    "position": "市环保站"
+  },
+  {
+    "area": "湖州",
+    "position": "城北水厂"
+  },
+  {
+    "area": "湖州",
+    "position": "城西水厂"
+  },
+  {
+    "area": "湖州",
+    "position": "吉山新村"
+  },
+  {
+    "area": "嘉兴",
+    "position": "清河小学"
+  },
+  {
+    "area": "嘉兴",
+    "position": "嘉兴学院"
+  },
+  {
+    "area": "嘉兴",
+    "position": "监测站"
+  },
+  {
+    "area": "台州",
+    "position": "黄岩环保大楼"
+  },
+  {
+    "area": "台州",
+    "position": "台州环保大楼"
+  },
+  {
+    "area": "台州",
+    "position": "路桥田洋王"
+  },
+  {
+    "area": "舟山",
+    "position": "定海檀枫"
+  },
+  {
+    "area": "舟山",
+    "position": "普陀东港"
+  },
+  {
+    "area": "舟山",
+    "position": "临城新区"
+  },
+  {
+    "area": "金华",
+    "position": "四中"
+  },
+  {
+    "area": "金华",
+    "position": "十五中"
+  },
+  {
+    "area": "金华",
+    "position": "监测站"
+  },
+  {
+    "area": "衢州",
+    "position": "环保大楼"
+  },
+  {
+    "area": "衢州",
+    "position": "实验学校"
+  },
+  {
+    "area": "衢州",
+    "position": "衢州学院"
+  },
+  {
+    "area": "丽水",
+    "position": "监测站大楼"
+  },
+  {
+    "area": "丽水",
+    "position": "莲都小学"
+  },
+  {
+    "area": "丽水",
+    "position": "余庄前"
+  },
+  {
+    "area": "合肥",
+    "position": "明珠广场"
+  },
+  {
+    "area": "合肥",
+    "position": "三里街"
+  },
+  {
+    "area": "合肥",
+    "position": "琥珀山庄"
+  },
+  {
+    "area": "合肥",
+    "position": "董铺水库"
+  },
+  {
+    "area": "合肥",
+    "position": "长江中路"
+  },
+  {
+    "area": "合肥",
+    "position": "庐阳区"
+  },
+  {
+    "area": "合肥",
+    "position": "瑶海区"
+  },
+  {
+    "area": "合肥",
+    "position": "包河区"
+  },
+  {
+    "area": "合肥",
+    "position": "滨湖新区"
+  },
+  {
+    "area": "合肥",
+    "position": "高新区"
+  },
+  {
+    "area": "福州",
+    "position": "鼓山"
+  },
+  {
+    "area": "福州",
+    "position": "快安"
+  },
+  {
+    "area": "福州",
+    "position": "师大"
+  },
+  {
+    "area": "福州",
+    "position": "五四北路"
+  },
+  {
+    "area": "福州",
+    "position": "杨桥西路"
+  },
+  {
+    "area": "福州",
+    "position": "紫阳"
+  },
+  {
+    "area": "厦门",
+    "position": "溪东"
+  },
+  {
+    "area": "厦门",
+    "position": "洪文"
+  },
+  {
+    "area": "厦门",
+    "position": "鼓浪屿"
+  },
+  {
+    "area": "南昌",
+    "position": "省外办"
+  },
+  {
+    "area": "南昌",
+    "position": "省林业公司"
+  },
+  {
+    "area": "南昌",
+    "position": "林科所"
+  },
+  {
+    "area": "南昌",
+    "position": "京东镇政府"
+  },
+  {
+    "area": "南昌",
+    "position": "建工学校"
+  },
+  {
+    "area": "南昌",
+    "position": "象湖"
+  },
+  {
+    "area": "南昌",
+    "position": "武术学校"
+  },
+  {
+    "area": "南昌",
+    "position": "石化"
+  },
+  {
+    "area": "南昌",
+    "position": "省站"
+  },
+  {
+    "area": "济南",
+    "position": "科干所"
+  },
+  {
+    "area": "济南",
+    "position": "农科所"
+  },
+  {
+    "area": "济南",
+    "position": "开发区"
+  },
+  {
+    "area": "济南",
+    "position": "济南化工厂"
+  },
+  {
+    "area": "济南",
+    "position": "省种子仓库"
+  },
+  {
+    "area": "济南",
+    "position": "机床二厂"
+  },
+  {
+    "area": "济南",
+    "position": "市监测站"
+  },
+  {
+    "area": "济南",
+    "position": "长清党校"
+  },
+  {
+    "area": "青岛",
+    "position": "仰口"
+  },
+  {
+    "area": "青岛",
+    "position": "李沧区子站"
+  },
+  {
+    "area": "青岛",
+    "position": "市北区子站"
+  },
+  {
+    "area": "青岛",
+    "position": "市南区东部子站"
+  },
+  {
+    "area": "青岛",
+    "position": "四方区子站"
+  },
+  {
+    "area": "青岛",
+    "position": "市南区西部子站"
+  },
+  {
+    "area": "青岛",
+    "position": "崂山区子站"
+  },
+  {
+    "area": "青岛",
+    "position": "黄岛区子站"
+  },
+  {
+    "area": "青岛",
+    "position": "城阳区子站"
+  },
+  {
+    "area": "郑州",
+    "position": "烟厂"
+  },
+  {
+    "area": "郑州",
+    "position": "郑纺机"
+  },
+  {
+    "area": "郑州",
+    "position": "银行学校"
+  },
+  {
+    "area": "郑州",
+    "position": "供水公司"
+  },
+  {
+    "area": "郑州",
+    "position": "经开区管委"
+  },
+  {
+    "area": "郑州",
+    "position": "四十七中"
+  },
+  {
+    "area": "郑州",
+    "position": "市监测站"
+  },
+  {
+    "area": "郑州",
+    "position": "河医大"
+  },
+  {
+    "area": "郑州",
+    "position": "岗李水库"
+  },
+  {
+    "area": "武汉",
+    "position": "东湖梨园"
+  },
+  {
+    "area": "武汉",
+    "position": "汉阳月湖"
+  },
+  {
+    "area": "武汉",
+    "position": "汉口花桥"
+  },
+  {
+    "area": "武汉",
+    "position": "武昌紫阳"
+  },
+  {
+    "area": "武汉",
+    "position": "青山钢花"
+  },
+  {
+    "area": "武汉",
+    "position": "沌口新区"
+  },
+  {
+    "area": "武汉",
+    "position": "汉口江滩"
+  },
+  {
+    "area": "武汉",
+    "position": "东湖高新"
+  },
+  {
+    "area": "武汉",
+    "position": "吴家山"
+  },
+  {
+    "area": "武汉",
+    "position": "沉湖七壕"
+  },
+  {
+    "area": "长沙",
+    "position": "经开区环保局"
+  },
+  {
+    "area": "长沙",
+    "position": "高开区环保局"
+  },
+  {
+    "area": "长沙",
+    "position": "马坡岭"
+  },
+  {
+    "area": "长沙",
+    "position": "湖南师范大学"
+  },
+  {
+    "area": "长沙",
+    "position": "雨花区环保局"
+  },
+  {
+    "area": "长沙",
+    "position": "伍家岭"
+  },
+  {
+    "area": "长沙",
+    "position": "火车新站"
+  },
+  {
+    "area": "长沙",
+    "position": "天心区环保局"
+  },
+  {
+    "area": "长沙",
+    "position": "湖南中医药大学"
+  },
+  {
+    "area": "长沙",
+    "position": "沙坪"
+  },
+  {
+    "area": "广州",
+    "position": "广雅中学"
+  },
+  {
+    "area": "广州",
+    "position": "市五中"
+  },
+  {
+    "area": "广州",
+    "position": "天河职幼"
+  },
+  {
+    "area": "广州",
+    "position": "广东商学院"
+  },
+  {
+    "area": "广州",
+    "position": "市八十六中"
+  },
+  {
+    "area": "广州",
+    "position": "番禺中学"
+  },
+  {
+    "area": "广州",
+    "position": "花都师范"
+  },
+  {
+    "area": "广州",
+    "position": "市监测站"
+  },
+  {
+    "area": "广州",
+    "position": "九龙镇镇龙"
+  },
+  {
+    "area": "广州",
+    "position": "麓湖"
+  },
+  {
+    "area": "广州",
+    "position": "帽峰山森林公园"
+  },
+  {
+    "area": "深圳",
+    "position": "荔园"
+  },
+  {
+    "area": "深圳",
+    "position": "洪湖"
+  },
+  {
+    "area": "深圳",
+    "position": "华侨城"
+  },
+  {
+    "area": "深圳",
+    "position": "南油"
+  },
+  {
+    "area": "深圳",
+    "position": "盐田"
+  },
+  {
+    "area": "深圳",
+    "position": "龙岗"
+  },
+  {
+    "area": "深圳",
+    "position": "西乡"
+  },
+  {
+    "area": "深圳",
+    "position": "南澳"
+  },
+  {
+    "area": "深圳",
+    "position": "葵涌"
+  },
+  {
+    "area": "深圳",
+    "position": "梅沙"
+  },
+  {
+    "area": "深圳",
+    "position": "观澜"
+  },
+  {
+    "area": "珠海",
+    "position": "吉大"
+  },
+  {
+    "area": "珠海",
+    "position": "前山"
+  },
+  {
+    "area": "珠海",
+    "position": "唐家"
+  },
+  {
+    "area": "珠海",
+    "position": "斗门"
+  },
+  {
+    "area": "佛山",
+    "position": "湾梁"
+  },
+  {
+    "area": "佛山",
+    "position": "华材职中"
+  },
+  {
+    "area": "佛山",
+    "position": "南海气象局"
+  },
+  {
+    "area": "佛山",
+    "position": "顺德苏岗"
+  },
+  {
+    "area": "佛山",
+    "position": "容桂街道办"
+  },
+  {
+    "area": "佛山",
+    "position": "高明孔堂"
+  },
+  {
+    "area": "佛山",
+    "position": "三水监测站"
+  },
+  {
+    "area": "佛山",
+    "position": "三水云东海"
+  },
+  {
+    "area": "中山",
+    "position": "华柏园"
+  },
+  {
+    "area": "中山",
+    "position": "张溪"
+  },
+  {
+    "area": "中山",
+    "position": "紫马岭"
+  },
+  {
+    "area": "中山",
+    "position": "长江旅游区"
+  },
+  {
+    "area": "江门",
+    "position": "北街"
+  },
+  {
+    "area": "江门",
+    "position": "西区"
+  },
+  {
+    "area": "江门",
+    "position": "圭峰西"
+  },
+  {
+    "area": "江门",
+    "position": "东湖"
+  },
+  {
+    "area": "东莞",
+    "position": "南城元岭"
+  },
+  {
+    "area": "东莞",
+    "position": "东城石井"
+  },
+  {
+    "area": "东莞",
+    "position": "南城西平"
+  },
+  {
+    "area": "惠州",
+    "position": "河南岸金山湖子站"
+  },
+  {
+    "area": "惠州",
+    "position": "下埔横江三路子站"
+  },
+  {
+    "area": "惠州",
+    "position": "江北云山西路子站"
+  },
+  {
+    "area": "惠州",
+    "position": "惠阳区承修路船湖子站"
+  },
+  {
+    "area": "惠州",
+    "position": "大亚湾管委会子站"
+  },
+  {
+    "area": "肇庆",
+    "position": "睦岗子站"
+  },
+  {
+    "area": "肇庆",
+    "position": "城中子站"
+  },
+  {
+    "area": "肇庆",
+    "position": "坑口子站"
+  },
+  {
+    "area": "肇庆",
+    "position": "七星岩子站"
+  },
+  {
+    "area": "南宁",
+    "position": "振宁花园"
+  },
+  {
+    "area": "南宁",
+    "position": "北湖"
+  },
+  {
+    "area": "南宁",
+    "position": "市监测站"
+  },
+  {
+    "area": "南宁",
+    "position": "大自然花园"
+  },
+  {
+    "area": "南宁",
+    "position": "仙葫"
+  },
+  {
+    "area": "南宁",
+    "position": "区农职院"
+  },
+  {
+    "area": "南宁",
+    "position": "英华嘉园"
+  },
+  {
+    "area": "南宁",
+    "position": "沙井镇街道办"
+  },
+  {
+    "area": "海口",
+    "position": "东寨港"
+  },
+  {
+    "area": "海口",
+    "position": "海南大学"
+  },
+  {
+    "area": "海口",
+    "position": "秀英海南医院"
+  },
+  {
+    "area": "海口",
+    "position": "海南师范大学"
+  },
+  {
+    "area": "海口",
+    "position": "龙华路环保局宿舍"
+  },
+  {
+    "area": "重庆",
+    "position": "缙云山"
+  },
+  {
+    "area": "重庆",
+    "position": "高家花园"
+  },
+  {
+    "area": "重庆",
+    "position": "天生"
+  },
+  {
+    "area": "重庆",
+    "position": "两路"
+  },
+  {
+    "area": "重庆",
+    "position": "虎溪"
+  },
+  {
+    "area": "重庆",
+    "position": "南坪"
+  },
+  {
+    "area": "重庆",
+    "position": "唐家沱"
+  },
+  {
+    "area": "重庆",
+    "position": "茶园"
+  },
+  {
+    "area": "重庆",
+    "position": "白市驿"
+  },
+  {
+    "area": "重庆",
+    "position": "解放碑"
+  },
+  {
+    "area": "重庆",
+    "position": "杨家坪"
+  },
+  {
+    "area": "重庆",
+    "position": "空港"
+  },
+  {
+    "area": "重庆",
+    "position": "新山村"
+  },
+  {
+    "area": "重庆",
+    "position": "礼嘉"
+  },
+  {
+    "area": "重庆",
+    "position": "蔡家"
+  },
+  {
+    "area": "重庆",
+    "position": "鱼新街"
+  },
+  {
+    "area": "重庆",
+    "position": "南泉"
+  },
+  {
+    "area": "成都",
+    "position": "金泉两河"
+  },
+  {
+    "area": "成都",
+    "position": "十里店"
+  },
+  {
+    "area": "成都",
+    "position": "三瓦窑"
+  },
+  {
+    "area": "成都",
+    "position": "沙河铺"
+  },
+  {
+    "area": "成都",
+    "position": "梁家巷"
+  },
+  {
+    "area": "成都",
+    "position": "草堂寺"
+  },
+  {
+    "area": "成都",
+    "position": "灵岩寺"
+  },
+  {
+    "area": "贵阳",
+    "position": "马鞍山"
+  },
+  {
+    "area": "贵阳",
+    "position": "市环保站"
+  },
+  {
+    "area": "贵阳",
+    "position": "太慈桥"
+  },
+  {
+    "area": "昆明",
+    "position": "关上"
+  },
+  {
+    "area": "昆明",
+    "position": "呈贡新区"
+  },
+  {
+    "area": "昆明",
+    "position": "西山森林公园"
+  },
+  {
+    "area": "昆明",
+    "position": "龙泉镇"
+  },
+  {
+    "area": "昆明",
+    "position": "东风东路"
+  },
+  {
+    "area": "昆明",
+    "position": "金鼎山"
+  },
+  {
+    "area": "昆明",
+    "position": "碧鸡广场"
+  },
+  {
+    "area": "拉萨",
+    "position": "八廓街"
+  },
+  {
+    "area": "拉萨",
+    "position": "市环保局"
+  },
+  {
+    "area": "拉萨",
+    "position": "区监测站"
+  },
+  {
+    "area": "拉萨",
+    "position": "西藏大学"
+  },
+  {
+    "area": "拉萨",
+    "position": "区辐射站"
+  },
+  {
+    "area": "拉萨",
+    "position": "拉萨火车站"
+  },
+  {
+    "area": "西安",
+    "position": "高压开关厂"
+  },
+  {
+    "area": "西安",
+    "position": "兴庆小区"
+  },
+  {
+    "area": "西安",
+    "position": "纺织城"
+  },
+  {
+    "area": "西安",
+    "position": "小寨"
+  },
+  {
+    "area": "西安",
+    "position": "市人民体育场"
+  },
+  {
+    "area": "西安",
+    "position": "高新西区"
+  },
+  {
+    "area": "西安",
+    "position": "经开区"
+  },
+  {
+    "area": "西安",
+    "position": "长安区"
+  },
+  {
+    "area": "西安",
+    "position": "阎良区"
+  },
+  {
+    "area": "西安",
+    "position": "临潼区"
+  },
+  {
+    "area": "西安",
+    "position": "草滩"
+  },
+  {
+    "area": "西安",
+    "position": "曲江文化产业集团"
+  },
+  {
+    "area": "西安",
+    "position": "广运潭"
+  },
+  {
+    "area": "兰州",
+    "position": "职工医院"
+  },
+  {
+    "area": "兰州",
+    "position": "兰炼宾馆"
+  },
+  {
+    "area": "兰州",
+    "position": "榆中兰大校区"
+  },
+  {
+    "area": "兰州",
+    "position": "生物制品所"
+  },
+  {
+    "area": "兰州",
+    "position": "铁路设计院"
+  },
+  {
+    "area": "西宁",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "西宁",
+    "position": "省医药仓库"
+  },
+  {
+    "area": "西宁",
+    "position": "四陆医院"
+  },
+  {
+    "area": "西宁",
+    "position": "第五水厂"
+  },
+  {
+    "area": "银川",
+    "position": "贺兰山马莲口"
+  },
+  {
+    "area": "银川",
+    "position": "银湖巷"
+  },
+  {
+    "area": "银川",
+    "position": "宁安大街"
+  },
+  {
+    "area": "银川",
+    "position": "宁化生活区"
+  },
+  {
+    "area": "银川",
+    "position": "贺兰山东路"
+  },
+  {
+    "area": "银川",
+    "position": "学院路"
+  },
+  {
+    "area": "乌鲁木齐",
+    "position": "监测站"
+  },
+  {
+    "area": "乌鲁木齐",
+    "position": "收费所"
+  },
+  {
+    "area": "乌鲁木齐",
+    "position": "新疆农科院农场"
+  },
+  {
+    "area": "乌鲁木齐",
+    "position": "铁路局"
+  },
+  {
+    "area": "乌鲁木齐",
+    "position": "三十一中学"
+  },
+  {
+    "area": "乌鲁木齐",
+    "position": "七十四中学"
+  },
+  {
+    "area": "乌鲁木齐",
+    "position": "米东区环保局"
+  },
+  {
+    "area": "湘潭",
+    "position": "板塘"
+  },
+  {
+    "area": "湘潭",
+    "position": "市监测站"
+  },
+  {
+    "area": "湘潭",
+    "position": "江麓"
+  },
+  {
+    "area": "湘潭",
+    "position": "岳塘"
+  },
+  {
+    "area": "湘潭",
+    "position": "科大"
+  },
+  {
+    "area": "株洲",
+    "position": "天台山庄"
+  },
+  {
+    "area": "株洲",
+    "position": "株冶医院"
+  },
+  {
+    "area": "株洲",
+    "position": "市四中"
+  },
+  {
+    "area": "株洲",
+    "position": "火车站"
+  },
+  {
+    "area": "株洲",
+    "position": "市监测站"
+  },
+  {
+    "area": "贵阳",
+    "position": "桐木岭"
+  },
+  {
+    "area": "株洲",
+    "position": "大京风景区"
+  },
+  {
+    "area": "湘潭",
+    "position": "昭山"
+  },
+  {
+    "area": "湘潭",
+    "position": "韶山"
+  },
+  {
+    "area": "包头",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "包头",
+    "position": "包百大楼"
+  },
+  {
+    "area": "包头",
+    "position": "东河城环局"
+  },
+  {
+    "area": "包头",
+    "position": "青山宾馆"
+  },
+  {
+    "area": "包头",
+    "position": "惠龙物流"
+  },
+  {
+    "area": "包头",
+    "position": "东河鸿龙湾"
+  },
+  {
+    "area": "鄂尔多斯",
+    "position": "综合楼"
+  },
+  {
+    "area": "鄂尔多斯",
+    "position": "巴音孟克林场办事处"
+  },
+  {
+    "area": "鄂尔多斯",
+    "position": "康泽苑"
+  },
+  {
+    "area": "鄂尔多斯",
+    "position": "华泰汽车城"
+  },
+  {
+    "area": "鄂尔多斯",
+    "position": "奥林花园"
+  },
+  {
+    "area": "营口",
+    "position": "西炮台"
+  },
+  {
+    "area": "盘锦",
+    "position": "开发区"
+  },
+  {
+    "area": "盘锦",
+    "position": "兴隆台"
+  },
+  {
+    "area": "泉州",
+    "position": "涂山街"
+  },
+  {
+    "area": "泉州",
+    "position": "津头埔"
+  },
+  {
+    "area": "泉州",
+    "position": "万安"
+  },
+  {
+    "area": "泉州",
+    "position": "清源山"
+  },
+  {
+    "area": "莱芜",
+    "position": "植物油厂"
+  },
+  {
+    "area": "莱芜",
+    "position": "技术学院"
+  },
+  {
+    "area": "莱芜",
+    "position": "日升国际"
+  },
+  {
+    "area": "临沂",
+    "position": "沂河小区"
+  },
+  {
+    "area": "临沂",
+    "position": "鲁南制药厂"
+  },
+  {
+    "area": "临沂",
+    "position": "新光毛纺厂"
+  },
+  {
+    "area": "临沂",
+    "position": "河东保险公司"
+  },
+  {
+    "area": "德州",
+    "position": "儿童乐园"
+  },
+  {
+    "area": "德州",
+    "position": "黑马集团"
+  },
+  {
+    "area": "德州",
+    "position": "监理站"
+  },
+  {
+    "area": "聊城",
+    "position": "区政府"
+  },
+  {
+    "area": "聊城",
+    "position": "二轻机"
+  },
+  {
+    "area": "聊城",
+    "position": "党校"
+  },
+  {
+    "area": "滨州",
+    "position": "市环保局"
+  },
+  {
+    "area": "滨州",
+    "position": "第二水厂"
+  },
+  {
+    "area": "滨州",
+    "position": "北中新校"
+  },
+  {
+    "area": "淄博",
+    "position": "人民公园"
+  },
+  {
+    "area": "淄博",
+    "position": "东风化工厂"
+  },
+  {
+    "area": "淄博",
+    "position": "双山"
+  },
+  {
+    "area": "淄博",
+    "position": "气象站"
+  },
+  {
+    "area": "淄博",
+    "position": "莆田园"
+  },
+  {
+    "area": "淄博",
+    "position": "三金集团"
+  },
+  {
+    "area": "枣庄",
+    "position": "市中区政府"
+  },
+  {
+    "area": "枣庄",
+    "position": "薛城环保局"
+  },
+  {
+    "area": "枣庄",
+    "position": "峄城区政府"
+  },
+  {
+    "area": "枣庄",
+    "position": "台儿庄区环保局"
+  },
+  {
+    "area": "枣庄",
+    "position": "山亭区环保局"
+  },
+  {
+    "area": "烟台",
+    "position": "开发区"
+  },
+  {
+    "area": "烟台",
+    "position": "轴承厂"
+  },
+  {
+    "area": "烟台",
+    "position": "西郊化工站"
+  },
+  {
+    "area": "烟台",
+    "position": "莱山环保局"
+  },
+  {
+    "area": "烟台",
+    "position": "福山环保局"
+  },
+  {
+    "area": "烟台",
+    "position": "牟平环保局"
+  },
+  {
+    "area": "潍坊",
+    "position": "仲裁委"
+  },
+  {
+    "area": "潍坊",
+    "position": "刘家园"
+  },
+  {
+    "area": "潍坊",
+    "position": "环保局"
+  },
+  {
+    "area": "潍坊",
+    "position": "共达公司"
+  },
+  {
+    "area": "潍坊",
+    "position": "寒亭监测站"
+  },
+  {
+    "area": "济宁",
+    "position": "火炬城"
+  },
+  {
+    "area": "济宁",
+    "position": "监测站"
+  },
+  {
+    "area": "济宁",
+    "position": "电化厂"
+  },
+  {
+    "area": "泰安",
+    "position": "监测站"
+  },
+  {
+    "area": "泰安",
+    "position": "人口学校"
+  },
+  {
+    "area": "泰安",
+    "position": "电力学校"
+  },
+  {
+    "area": "日照",
+    "position": "监测站"
+  },
+  {
+    "area": "日照",
+    "position": "市政府广场"
+  },
+  {
+    "area": "日照",
+    "position": "港务局"
+  },
+  {
+    "area": "威海",
+    "position": "华夏技校"
+  },
+  {
+    "area": "威海",
+    "position": "山大分校"
+  },
+  {
+    "area": "威海",
+    "position": "市监测站"
+  },
+  {
+    "area": "东营",
+    "position": "西城阳光环保公司"
+  },
+  {
+    "area": "东营",
+    "position": "市环保局"
+  },
+  {
+    "area": "东营",
+    "position": "耿井村"
+  },
+  {
+    "area": "东营",
+    "position": "广南水库"
+  },
+  {
+    "area": "韶关",
+    "position": "市八中"
+  },
+  {
+    "area": "韶关",
+    "position": "碧湖山庄"
+  },
+  {
+    "area": "韶关",
+    "position": "园林处"
+  },
+  {
+    "area": "韶关",
+    "position": "韶关学院"
+  },
+  {
+    "area": "韶关",
+    "position": "曲江监测站"
+  },
+  {
+    "area": "汕头",
+    "position": "金平子站"
+  },
+  {
+    "area": "汕头",
+    "position": "龙湖子站"
+  },
+  {
+    "area": "汕头",
+    "position": "濠江子站"
+  },
+  {
+    "area": "汕头",
+    "position": "澄海子站"
+  },
+  {
+    "area": "汕头",
+    "position": "潮阳子站"
+  },
+  {
+    "area": "汕头",
+    "position": "潮南子站"
+  },
+  {
+    "area": "湛江",
+    "position": "湛江影剧院"
+  },
+  {
+    "area": "湛江",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "湛江",
+    "position": "环保局宿舍"
+  },
+  {
+    "area": "湛江",
+    "position": "霞山游泳场"
+  },
+  {
+    "area": "湛江",
+    "position": "麻章区环保局"
+  },
+  {
+    "area": "湛江",
+    "position": "坡头区环保局"
+  },
+  {
+    "area": "茂名",
+    "position": "市环保局茂港分局"
+  },
+  {
+    "area": "茂名",
+    "position": "茂石化七小"
+  },
+  {
+    "area": "茂名",
+    "position": "健康路"
+  },
+  {
+    "area": "茂名",
+    "position": "高岭"
+  },
+  {
+    "area": "梅州",
+    "position": "嘉应大学"
+  },
+  {
+    "area": "梅州",
+    "position": "梅县新城"
+  },
+  {
+    "area": "梅州",
+    "position": "环境监控中心"
+  },
+  {
+    "area": "汕尾",
+    "position": "市环保局"
+  },
+  {
+    "area": "汕尾",
+    "position": "市政府"
+  },
+  {
+    "area": "汕尾",
+    "position": "新城中学"
+  },
+  {
+    "area": "阳江",
+    "position": "鸳鸯湖"
+  },
+  {
+    "area": "阳江",
+    "position": "南恩路"
+  },
+  {
+    "area": "阳江",
+    "position": "马南垌"
+  },
+  {
+    "area": "清远",
+    "position": "凤城街办"
+  },
+  {
+    "area": "潮州",
+    "position": "西园路"
+  },
+  {
+    "area": "潮州",
+    "position": "档案局"
+  },
+  {
+    "area": "潮州",
+    "position": "市政公司"
+  },
+  {
+    "area": "云浮",
+    "position": "新市府"
+  },
+  {
+    "area": "云浮",
+    "position": "市监测站"
+  },
+  {
+    "area": "云浮",
+    "position": "牧羊"
+  },
+  {
+    "area": "玉溪",
+    "position": "东风水库"
+  },
+  {
+    "area": "玉溪",
+    "position": "市监测站"
+  },
+  {
+    "area": "玉溪",
+    "position": "大营街镇"
+  },
+  {
+    "area": "菏泽",
+    "position": "市气象局"
+  },
+  {
+    "area": "菏泽",
+    "position": "市政协"
+  },
+  {
+    "area": "菏泽",
+    "position": "菏泽学院"
+  },
+  {
+    "area": "大同",
+    "position": "果树场"
+  },
+  {
+    "area": "大同",
+    "position": "红旗广场"
+  },
+  {
+    "area": "大同",
+    "position": "云冈宾馆"
+  },
+  {
+    "area": "大同",
+    "position": "大同大学"
+  },
+  {
+    "area": "大同",
+    "position": "安家小村"
+  },
+  {
+    "area": "大同",
+    "position": "教育学院"
+  },
+  {
+    "area": "长治",
+    "position": "清华站"
+  },
+  {
+    "area": "长治",
+    "position": "监测站"
+  },
+  {
+    "area": "长治",
+    "position": "澳瑞特"
+  },
+  {
+    "area": "长治",
+    "position": "审计局"
+  },
+  {
+    "area": "长治",
+    "position": "长治八中"
+  },
+  {
+    "area": "临汾",
+    "position": "市监测站"
+  },
+  {
+    "area": "临汾",
+    "position": "临钢医院"
+  },
+  {
+    "area": "临汾",
+    "position": "技工学校"
+  },
+  {
+    "area": "临汾",
+    "position": "工商学校"
+  },
+  {
+    "area": "临汾",
+    "position": "市委"
+  },
+  {
+    "area": "临汾",
+    "position": "南机场"
+  },
+  {
+    "area": "阳泉",
+    "position": "市中心"
+  },
+  {
+    "area": "阳泉",
+    "position": "赛鱼"
+  },
+  {
+    "area": "阳泉",
+    "position": "南庄"
+  },
+  {
+    "area": "阳泉",
+    "position": "白羊墅"
+  },
+  {
+    "area": "阳泉",
+    "position": "平坦"
+  },
+  {
+    "area": "阳泉",
+    "position": "大阳泉"
+  },
+  {
+    "area": "赤峰",
+    "position": "松山一中"
+  },
+  {
+    "area": "赤峰",
+    "position": "哈达街"
+  },
+  {
+    "area": "赤峰",
+    "position": "天义路"
+  },
+  {
+    "area": "赤峰",
+    "position": "松山路"
+  },
+  {
+    "area": "鞍山",
+    "position": "深沟寺"
+  },
+  {
+    "area": "鞍山",
+    "position": "明达新区"
+  },
+  {
+    "area": "抚顺",
+    "position": "沈抚新城"
+  },
+  {
+    "area": "本溪",
+    "position": "大峪"
+  },
+  {
+    "area": "本溪",
+    "position": "溪湖"
+  },
+  {
+    "area": "本溪",
+    "position": "彩屯"
+  },
+  {
+    "area": "本溪",
+    "position": "东明"
+  },
+  {
+    "area": "本溪",
+    "position": "威宁"
+  },
+  {
+    "area": "锦州",
+    "position": "南山"
+  },
+  {
+    "area": "锦州",
+    "position": "开发区"
+  },
+  {
+    "area": "锦州",
+    "position": "北湖公园"
+  },
+  {
+    "area": "吉林",
+    "position": "哈达湾"
+  },
+  {
+    "area": "吉林",
+    "position": "东局子"
+  },
+  {
+    "area": "吉林",
+    "position": "电力学院"
+  },
+  {
+    "area": "吉林",
+    "position": "江北"
+  },
+  {
+    "area": "吉林",
+    "position": "江南公园"
+  },
+  {
+    "area": "吉林",
+    "position": "农科院"
+  },
+  {
+    "area": "吉林",
+    "position": "丰满"
+  },
+  {
+    "area": "齐齐哈尔",
+    "position": "安居小区"
+  },
+  {
+    "area": "齐齐哈尔",
+    "position": "中心广场"
+  },
+  {
+    "area": "齐齐哈尔",
+    "position": "农牧车辆厂"
+  },
+  {
+    "area": "齐齐哈尔",
+    "position": "富区环保局"
+  },
+  {
+    "area": "齐齐哈尔",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "牡丹江",
+    "position": "环保大楼　"
+  },
+  {
+    "area": "牡丹江",
+    "position": "文化广场　"
+  },
+  {
+    "area": "牡丹江",
+    "position": "第一医院"
+  },
+  {
+    "area": "牡丹江",
+    "position": "机车工厂"
+  },
+  {
+    "area": "牡丹江",
+    "position": "第一中学"
+  },
+  {
+    "area": "大庆",
+    "position": "大同区"
+  },
+  {
+    "area": "大庆",
+    "position": "龙凤区"
+  },
+  {
+    "area": "大庆",
+    "position": "红岗区"
+  },
+  {
+    "area": "大庆",
+    "position": "萨尔图区"
+  },
+  {
+    "area": "大庆",
+    "position": "让胡路区"
+  },
+  {
+    "area": "芜湖",
+    "position": "监测站"
+  },
+  {
+    "area": "芜湖",
+    "position": "科创中心"
+  },
+  {
+    "area": "芜湖",
+    "position": "四水厂"
+  },
+  {
+    "area": "芜湖",
+    "position": "五七二零厂"
+  },
+  {
+    "area": "马鞍山",
+    "position": "湖东路四小"
+  },
+  {
+    "area": "马鞍山",
+    "position": "天平服装"
+  },
+  {
+    "area": "马鞍山",
+    "position": "慈湖二小"
+  },
+  {
+    "area": "马鞍山",
+    "position": "马钢动力厂"
+  },
+  {
+    "area": "马鞍山",
+    "position": "市教育基地"
+  },
+  {
+    "area": "九江",
+    "position": "十里"
+  },
+  {
+    "area": "九江",
+    "position": "茅山头"
+  },
+  {
+    "area": "九江",
+    "position": "西园"
+  },
+  {
+    "area": "九江",
+    "position": "五七二七厂"
+  },
+  {
+    "area": "九江",
+    "position": "水科所"
+  },
+  {
+    "area": "九江",
+    "position": "综合工业园"
+  },
+  {
+    "area": "九江",
+    "position": "石化总厂"
+  },
+  {
+    "area": "九江",
+    "position": "庐山气象台"
+  },
+  {
+    "area": "洛阳",
+    "position": "中信二小"
+  },
+  {
+    "area": "洛阳",
+    "position": "市委党校"
+  },
+  {
+    "area": "洛阳",
+    "position": "市监测站"
+  },
+  {
+    "area": "洛阳",
+    "position": "豫西宾馆"
+  },
+  {
+    "area": "洛阳",
+    "position": "河南林校"
+  },
+  {
+    "area": "洛阳",
+    "position": "开发区管委会"
+  },
+  {
+    "area": "洛阳",
+    "position": "市委新办公区"
+  },
+  {
+    "area": "安阳",
+    "position": "棉研所"
+  },
+  {
+    "area": "安阳",
+    "position": "红庙街"
+  },
+  {
+    "area": "安阳",
+    "position": "银杏小区"
+  },
+  {
+    "area": "安阳",
+    "position": "环保局"
+  },
+  {
+    "area": "安阳",
+    "position": "铁佛寺"
+  },
+  {
+    "area": "开封",
+    "position": "河大一附院"
+  },
+  {
+    "area": "开封",
+    "position": "肿瘤医院"
+  },
+  {
+    "area": "开封",
+    "position": "妇幼保健院"
+  },
+  {
+    "area": "开封",
+    "position": "世纪星幼儿园"
+  },
+  {
+    "area": "焦作",
+    "position": "市监测站　"
+  },
+  {
+    "area": "焦作",
+    "position": "市环保局　"
+  },
+  {
+    "area": "焦作",
+    "position": "高新区政府"
+  },
+  {
+    "area": "焦作",
+    "position": "影视城"
+  },
+  {
+    "area": "平顶山",
+    "position": "高压开关厂"
+  },
+  {
+    "area": "平顶山",
+    "position": "新华旅馆"
+  },
+  {
+    "area": "平顶山",
+    "position": "规划设计院"
+  },
+  {
+    "area": "平顶山",
+    "position": "平顶山工学院"
+  },
+  {
+    "area": "三门峡",
+    "position": "市政府"
+  },
+  {
+    "area": "三门峡",
+    "position": "开发区"
+  },
+  {
+    "area": "三门峡",
+    "position": "二  印"
+  },
+  {
+    "area": "三门峡",
+    "position": "风景区"
+  },
+  {
+    "area": "宜昌",
+    "position": "四零三"
+  },
+  {
+    "area": "宜昌",
+    "position": "白龙岗"
+  },
+  {
+    "area": "宜昌",
+    "position": "伍家岗"
+  },
+  {
+    "area": "宜昌",
+    "position": "点军区"
+  },
+  {
+    "area": "宜昌",
+    "position": "夷陵区"
+  },
+  {
+    "area": "荆州",
+    "position": "市图书馆"
+  },
+  {
+    "area": "荆州",
+    "position": "市委党校"
+  },
+  {
+    "area": "荆州",
+    "position": "科融环保"
+  },
+  {
+    "area": "岳阳",
+    "position": "南湖风景区"
+  },
+  {
+    "area": "岳阳",
+    "position": "城陵矶"
+  },
+  {
+    "area": "岳阳",
+    "position": "开发区"
+  },
+  {
+    "area": "岳阳",
+    "position": "云溪区"
+  },
+  {
+    "area": "岳阳",
+    "position": "君山区"
+  },
+  {
+    "area": "岳阳",
+    "position": "金凤水库"
+  },
+  {
+    "area": "常德",
+    "position": "市监测站"
+  },
+  {
+    "area": "常德",
+    "position": "市二中"
+  },
+  {
+    "area": "常德",
+    "position": "鼎城区环保局"
+  },
+  {
+    "area": "常德",
+    "position": "市技术监督局"
+  },
+  {
+    "area": "常德",
+    "position": "白鹤山"
+  },
+  {
+    "area": "张家界",
+    "position": "永定新区"
+  },
+  {
+    "area": "张家界",
+    "position": "电业局"
+  },
+  {
+    "area": "张家界",
+    "position": "未央路"
+  },
+  {
+    "area": "张家界",
+    "position": "袁家界"
+  },
+  {
+    "area": "桂林",
+    "position": "电子科大尧山校区"
+  },
+  {
+    "area": "桂林",
+    "position": "监测站"
+  },
+  {
+    "area": "桂林",
+    "position": "龙隐路小学"
+  },
+  {
+    "area": "桂林",
+    "position": "八中"
+  },
+  {
+    "area": "北海",
+    "position": "牛尾岭水库"
+  },
+  {
+    "area": "北海",
+    "position": "海滩公园"
+  },
+  {
+    "area": "北海",
+    "position": "新市环保局"
+  },
+  {
+    "area": "北海",
+    "position": "北海工业园"
+  },
+  {
+    "area": "柳州",
+    "position": "柳东小学"
+  },
+  {
+    "area": "柳州",
+    "position": "环保监测站"
+  },
+  {
+    "area": "柳州",
+    "position": "河西水厂"
+  },
+  {
+    "area": "柳州",
+    "position": "市四中"
+  },
+  {
+    "area": "柳州",
+    "position": "市九中"
+  },
+  {
+    "area": "柳州",
+    "position": "古亭山"
+  },
+  {
+    "area": "三亚",
+    "position": "河东子站"
+  },
+  {
+    "area": "三亚",
+    "position": "河西子站"
+  },
+  {
+    "area": "绵阳",
+    "position": "富乐山"
+  },
+  {
+    "area": "绵阳",
+    "position": "市人大"
+  },
+  {
+    "area": "绵阳",
+    "position": "高新区自来水公司"
+  },
+  {
+    "area": "绵阳",
+    "position": "三水厂"
+  },
+  {
+    "area": "宜宾",
+    "position": "石马中学"
+  },
+  {
+    "area": "宜宾",
+    "position": "市委"
+  },
+  {
+    "area": "宜宾",
+    "position": "宜宾四中"
+  },
+  {
+    "area": "宜宾",
+    "position": "市政府"
+  },
+  {
+    "area": "宜宾",
+    "position": "黄金嘴"
+  },
+  {
+    "area": "宜宾",
+    "position": "沙坪中学"
+  },
+  {
+    "area": "攀枝花",
+    "position": "弄弄坪"
+  },
+  {
+    "area": "攀枝花",
+    "position": "河门口"
+  },
+  {
+    "area": "攀枝花",
+    "position": "炳草岗"
+  },
+  {
+    "area": "攀枝花",
+    "position": "仁和"
+  },
+  {
+    "area": "泸州",
+    "position": "九狮山"
+  },
+  {
+    "area": "泸州",
+    "position": "小市上码头"
+  },
+  {
+    "area": "泸州",
+    "position": "兰田宪桥"
+  },
+  {
+    "area": "泸州",
+    "position": "市环监站"
+  },
+  {
+    "area": "自贡",
+    "position": "大塘山"
+  },
+  {
+    "area": "自贡",
+    "position": "盐马路"
+  },
+  {
+    "area": "自贡",
+    "position": "檀木林街"
+  },
+  {
+    "area": "自贡",
+    "position": "春华路"
+  },
+  {
+    "area": "德阳",
+    "position": "东山公园"
+  },
+  {
+    "area": "德阳",
+    "position": "西小区"
+  },
+  {
+    "area": "德阳",
+    "position": "市检察院"
+  },
+  {
+    "area": "德阳",
+    "position": "耐火材料厂"
+  },
+  {
+    "area": "南充",
+    "position": "西山风景区"
+  },
+  {
+    "area": "南充",
+    "position": "南充市委"
+  },
+  {
+    "area": "南充",
+    "position": "南充炼油厂"
+  },
+  {
+    "area": "南充",
+    "position": "高坪区监测站"
+  },
+  {
+    "area": "南充",
+    "position": "嘉陵区环保局"
+  },
+  {
+    "area": "南充",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "遵义",
+    "position": "丁字口"
+  },
+  {
+    "area": "遵义",
+    "position": "凤凰山"
+  },
+  {
+    "area": "遵义",
+    "position": "忠庄"
+  },
+  {
+    "area": "遵义",
+    "position": "舟水桥"
+  },
+  {
+    "area": "遵义",
+    "position": "干田坝"
+  },
+  {
+    "area": "曲靖",
+    "position": "环境监测站"
+  },
+  {
+    "area": "曲靖",
+    "position": "烟厂办公区"
+  },
+  {
+    "area": "咸阳",
+    "position": "气象站"
+  },
+  {
+    "area": "咸阳",
+    "position": "中华小区"
+  },
+  {
+    "area": "咸阳",
+    "position": "师范学院"
+  },
+  {
+    "area": "咸阳",
+    "position": "中医学院"
+  },
+  {
+    "area": "铜川",
+    "position": "党校"
+  },
+  {
+    "area": "铜川",
+    "position": "王益区政府"
+  },
+  {
+    "area": "铜川",
+    "position": "新区管委会"
+  },
+  {
+    "area": "铜川",
+    "position": "新区兰芝公司"
+  },
+  {
+    "area": "延安",
+    "position": "枣园"
+  },
+  {
+    "area": "延安",
+    "position": "延大医附院"
+  },
+  {
+    "area": "延安",
+    "position": "市监测站"
+  },
+  {
+    "area": "延安",
+    "position": "百米大道"
+  },
+  {
+    "area": "宝鸡",
+    "position": "庙沟村"
+  },
+  {
+    "area": "宝鸡",
+    "position": "竹园沟"
+  },
+  {
+    "area": "宝鸡",
+    "position": "三陆医院"
+  },
+  {
+    "area": "宝鸡",
+    "position": "监测站"
+  },
+  {
+    "area": "宝鸡",
+    "position": "技工学校"
+  },
+  {
+    "area": "宝鸡",
+    "position": "陈仓环保局"
+  },
+  {
+    "area": "宝鸡",
+    "position": "文理学院"
+  },
+  {
+    "area": "宝鸡",
+    "position": "三迪小学"
+  },
+  {
+    "area": "渭南",
+    "position": "农科所"
+  },
+  {
+    "area": "渭南",
+    "position": "日报社"
+  },
+  {
+    "area": "渭南",
+    "position": "体育馆"
+  },
+  {
+    "area": "渭南",
+    "position": "高新一小"
+  },
+  {
+    "area": "金昌",
+    "position": "市科委"
+  },
+  {
+    "area": "金昌",
+    "position": "新川苑"
+  },
+  {
+    "area": "金昌",
+    "position": "公司二招"
+  },
+  {
+    "area": "嘉峪关",
+    "position": "气象局"
+  },
+  {
+    "area": "嘉峪关",
+    "position": "酒钢耐材公司"
+  },
+  {
+    "area": "石嘴山",
+    "position": "沙湖旅游区"
+  },
+  {
+    "area": "石嘴山",
+    "position": "大武口黄河东街"
+  },
+  {
+    "area": "石嘴山",
+    "position": "惠农南大街"
+  },
+  {
+    "area": "石嘴山",
+    "position": "红果子镇惠新街"
+  },
+  {
+    "area": "克拉玛依",
+    "position": "长征新村"
+  },
+  {
+    "area": "克拉玛依",
+    "position": "南林小区"
+  },
+  {
+    "area": "克拉玛依",
+    "position": "白碱滩区"
+  },
+  {
+    "area": "克拉玛依",
+    "position": "独山子区"
+  },
+  {
+    "area": "克拉玛依",
+    "position": "乌尔禾区商贸楼"
+  },
+  {
+    "area": "库尔勒",
+    "position": "孔雀公园"
+  },
+  {
+    "area": "库尔勒",
+    "position": "棉纺厂"
+  },
+  {
+    "area": "库尔勒",
+    "position": "经济开发区"
+  },
+  {
+    "area": "寿光",
+    "position": "监测站"
+  },
+  {
+    "area": "寿光",
+    "position": "世纪学校"
+  },
+  {
+    "area": "章丘",
+    "position": "环境监测站"
+  },
+  {
+    "area": "章丘",
+    "position": "明水开发区"
+  },
+  {
+    "area": "即墨",
+    "position": "环保局子站"
+  },
+  {
+    "area": "即墨",
+    "position": "开发区子站"
+  },
+  {
+    "area": "胶南",
+    "position": "JN子站"
+  },
+  {
+    "area": "胶南",
+    "position": "2号子站"
+  },
+  {
+    "area": "胶州",
+    "position": "胶州环保局"
+  },
+  {
+    "area": "胶州",
+    "position": "胶州一中"
+  },
+  {
+    "area": "莱西",
+    "position": "环保局子站"
+  },
+  {
+    "area": "莱西",
+    "position": "人民广场子站"
+  },
+  {
+    "area": "平度",
+    "position": "1号"
+  },
+  {
+    "area": "平度",
+    "position": "2号"
+  },
+  {
+    "area": "蓬莱",
+    "position": "蓬莱环保局"
+  },
+  {
+    "area": "蓬莱",
+    "position": "蓬莱博物馆"
+  },
+  {
+    "area": "招远",
+    "position": "招远环保局"
+  },
+  {
+    "area": "招远",
+    "position": "招远教育局"
+  },
+  {
+    "area": "莱州",
+    "position": "莱州环保局"
+  },
+  {
+    "area": "莱州",
+    "position": "莱州外经委"
+  },
+  {
+    "area": "荣成",
+    "position": "荣成市环保局办公楼"
+  },
+  {
+    "area": "荣成",
+    "position": "山东成山轮胎公司"
+  },
+  {
+    "area": "文登",
+    "position": "文登市环保局"
+  },
+  {
+    "area": "文登",
+    "position": "文登市丝绸公司"
+  },
+  {
+    "area": "乳山",
+    "position": "乳山市环保局"
+  },
+  {
+    "area": "乳山",
+    "position": "乳山市气象局"
+  },
+  {
+    "area": "吴江",
+    "position": "吴江市环保局"
+  },
+  {
+    "area": "吴江",
+    "position": "教师进修学校"
+  },
+  {
+    "area": "吴江",
+    "position": "吴江开发区"
+  },
+  {
+    "area": "昆山",
+    "position": "昆山实验小学"
+  },
+  {
+    "area": "昆山",
+    "position": "震川中学"
+  },
+  {
+    "area": "常熟",
+    "position": "海虞子站"
+  },
+  {
+    "area": "常熟",
+    "position": "兴福子站"
+  },
+  {
+    "area": "常熟",
+    "position": "菱塘子站"
+  },
+  {
+    "area": "张家港",
+    "position": "张家港市监测站"
+  },
+  {
+    "area": "张家港",
+    "position": "城北小学"
+  },
+  {
+    "area": "太仓",
+    "position": "太仓市监测站"
+  },
+  {
+    "area": "太仓",
+    "position": "科教新城实小"
+  },
+  {
+    "area": "句容",
+    "position": "消防指挥中心"
+  },
+  {
+    "area": "句容",
+    "position": "房家坝"
+  },
+  {
+    "area": "江阴",
+    "position": "虹桥邮政"
+  },
+  {
+    "area": "江阴",
+    "position": "五星公园"
+  },
+  {
+    "area": "江阴",
+    "position": "第二实验小学"
+  },
+  {
+    "area": "宜兴",
+    "position": "宜兴市环保局"
+  },
+  {
+    "area": "宜兴",
+    "position": "宜园"
+  },
+  {
+    "area": "金坛",
+    "position": "金坛市环境监测站"
+  },
+  {
+    "area": "金坛",
+    "position": "金坛市自来水公司"
+  },
+  {
+    "area": "溧阳",
+    "position": "溧阳市东门子站"
+  },
+  {
+    "area": "溧阳",
+    "position": "燕山子站"
+  },
+  {
+    "area": "海门",
+    "position": "海门市监测站"
+  },
+  {
+    "area": "海门",
+    "position": "蓓蕾幼儿园"
+  },
+  {
+    "area": "临安",
+    "position": "市政府"
+  },
+  {
+    "area": "临安",
+    "position": "四中"
+  },
+  {
+    "area": "富阳",
+    "position": "监测站"
+  },
+  {
+    "area": "富阳",
+    "position": "富春二小"
+  },
+  {
+    "area": "义乌",
+    "position": "江东"
+  },
+  {
+    "area": "义乌",
+    "position": "北苑"
+  },
+  {
+    "area": "诸暨",
+    "position": "图书馆"
+  },
+  {
+    "area": "诸暨",
+    "position": "富林印务"
+  },
+  {
+    "area": "瓦房店",
+    "position": "抱龙山庄"
+  },
+  {
+    "area": "瓦房店",
+    "position": "东山公园"
+  },
+  {
+    "area": "株洲",
+    "position": "云田中学"
+  },
+  {
+    "area": "信阳",
+    "position": "平桥分局"
+  },
+  {
+    "area": "信阳",
+    "position": "南湾水厂"
+  },
+  {
+    "area": "信阳",
+    "position": "市酿酒公司"
+  },
+  {
+    "area": "信阳",
+    "position": "审计局"
+  },
+  {
+    "area": "周口",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "周口",
+    "position": "周口师范"
+  },
+  {
+    "area": "周口",
+    "position": "市运管处"
+  },
+  {
+    "area": "周口",
+    "position": "川汇区环保局"
+  },
+  {
+    "area": "漳州",
+    "position": "蓝田"
+  },
+  {
+    "area": "漳州",
+    "position": "漳州三中"
+  },
+  {
+    "area": "漳州",
+    "position": "九湖"
+  },
+  {
+    "area": "晋城",
+    "position": "自来水公司"
+  },
+  {
+    "area": "晋城",
+    "position": "白云商贸"
+  },
+  {
+    "area": "晋城",
+    "position": "市环保局"
+  },
+  {
+    "area": "晋城",
+    "position": "技术学院"
+  },
+  {
+    "area": "晋城",
+    "position": "泽州一中"
+  },
+  {
+    "area": "晋城",
+    "position": "白马寺"
+  },
+  {
+    "area": "朔州",
+    "position": "平朔"
+  },
+  {
+    "area": "朔州",
+    "position": "朔唯"
+  },
+  {
+    "area": "朔州",
+    "position": "区政府"
+  },
+  {
+    "area": "朔州",
+    "position": "市环保局"
+  },
+  {
+    "area": "朔州",
+    "position": "市二中"
+  },
+  {
+    "area": "晋中",
+    "position": "锦纶小区"
+  },
+  {
+    "area": "晋中",
+    "position": "榆次液压件厂"
+  },
+  {
+    "area": "晋中",
+    "position": "南都小区"
+  },
+  {
+    "area": "晋中",
+    "position": "榆次区政府"
+  },
+  {
+    "area": "运城",
+    "position": "运城中学"
+  },
+  {
+    "area": "运城",
+    "position": "禹都开发区"
+  },
+  {
+    "area": "运城",
+    "position": "运城学院"
+  },
+  {
+    "area": "运城",
+    "position": "地区技校"
+  },
+  {
+    "area": "运城",
+    "position": "空港新区"
+  },
+  {
+    "area": "忻州",
+    "position": "机引"
+  },
+  {
+    "area": "忻州",
+    "position": "开发区"
+  },
+  {
+    "area": "忻州",
+    "position": "会展中心"
+  },
+  {
+    "area": "吕梁",
+    "position": "环保局"
+  },
+  {
+    "area": "乌海",
+    "position": "聚英学校"
+  },
+  {
+    "area": "乌海",
+    "position": "市林业局"
+  },
+  {
+    "area": "乌海",
+    "position": "中海勃湾学校"
+  },
+  {
+    "area": "通辽",
+    "position": "通辽宾馆"
+  },
+  {
+    "area": "通辽",
+    "position": "胶建铝业"
+  },
+  {
+    "area": "通辽",
+    "position": "艺术职业学校"
+  },
+  {
+    "area": "呼伦贝尔",
+    "position": "区环保局"
+  },
+  {
+    "area": "呼伦贝尔",
+    "position": "市艺校"
+  },
+  {
+    "area": "巴彦淖尔",
+    "position": "秋林养殖基地"
+  },
+  {
+    "area": "巴彦淖尔",
+    "position": "附中"
+  },
+  {
+    "area": "巴彦淖尔",
+    "position": "市环保大楼"
+  },
+  {
+    "area": "乌兰察布",
+    "position": "集宁新区"
+  },
+  {
+    "area": "乌兰察布",
+    "position": "集宁旧区西"
+  },
+  {
+    "area": "兴安盟",
+    "position": "盟监测站"
+  },
+  {
+    "area": "兴安盟",
+    "position": "胜华新制药厂"
+  },
+  {
+    "area": "兴安盟",
+    "position": "科右前旗环保局"
+  },
+  {
+    "area": "锡林郭勒盟",
+    "position": "市环保监测站"
+  },
+  {
+    "area": "锡林郭勒盟",
+    "position": "市政府"
+  },
+  {
+    "area": "阿拉善盟",
+    "position": "体育场"
+  },
+  {
+    "area": "阿拉善盟",
+    "position": "盟环保楼"
+  },
+  {
+    "area": "阿拉善盟",
+    "position": "环保局新楼"
+  },
+  {
+    "area": "阜新",
+    "position": "工业园区"
+  },
+  {
+    "area": "阜新",
+    "position": "农业园区"
+  },
+  {
+    "area": "铁岭",
+    "position": "水上乐园"
+  },
+  {
+    "area": "四平",
+    "position": "监测站"
+  },
+  {
+    "area": "四平",
+    "position": "一商场"
+  },
+  {
+    "area": "四平",
+    "position": "境园"
+  },
+  {
+    "area": "辽源",
+    "position": "环保局"
+  },
+  {
+    "area": "辽源",
+    "position": "污水处理厂"
+  },
+  {
+    "area": "通化",
+    "position": "光明"
+  },
+  {
+    "area": "通化",
+    "position": "铁路"
+  },
+  {
+    "area": "白山",
+    "position": "喜丰"
+  },
+  {
+    "area": "白山",
+    "position": "环保局"
+  },
+  {
+    "area": "松原",
+    "position": "江南"
+  },
+  {
+    "area": "松原",
+    "position": "江北"
+  },
+  {
+    "area": "白城",
+    "position": "洮北区环保局"
+  },
+  {
+    "area": "白城",
+    "position": "市环保局"
+  },
+  {
+    "area": "延边州",
+    "position": "妇幼医院"
+  },
+  {
+    "area": "延边州",
+    "position": "延边医院"
+  },
+  {
+    "area": "延边州",
+    "position": "朝阳川镇医院"
+  },
+  {
+    "area": "鸡西",
+    "position": "环保局　"
+  },
+  {
+    "area": "鸡西",
+    "position": "自来水公司　"
+  },
+  {
+    "area": "鸡西",
+    "position": "白酒厂　"
+  },
+  {
+    "area": "鸡西",
+    "position": "气象局　"
+  },
+  {
+    "area": "鹤岗",
+    "position": "哈啤分公司"
+  },
+  {
+    "area": "鹤岗",
+    "position": "斯达机电"
+  },
+  {
+    "area": "鹤岗",
+    "position": "东山纸板厂"
+  },
+  {
+    "area": "鹤岗",
+    "position": "五号水库"
+  },
+  {
+    "area": "双鸭山",
+    "position": "双合村"
+  },
+  {
+    "area": "双鸭山",
+    "position": "南小市"
+  },
+  {
+    "area": "双鸭山",
+    "position": "环保局"
+  },
+  {
+    "area": "双鸭山",
+    "position": "苗圃"
+  },
+  {
+    "area": "伊春",
+    "position": "中心医院"
+  },
+  {
+    "area": "伊春",
+    "position": "林管局"
+  },
+  {
+    "area": "伊春",
+    "position": "汤旺河国家公园"
+  },
+  {
+    "area": "佳木斯",
+    "position": "佳纺"
+  },
+  {
+    "area": "佳木斯",
+    "position": "发电厂"
+  },
+  {
+    "area": "佳木斯",
+    "position": "环保局"
+  },
+  {
+    "area": "佳木斯",
+    "position": "十一中"
+  },
+  {
+    "area": "佳木斯",
+    "position": "四丰"
+  },
+  {
+    "area": "七台河",
+    "position": "环保局"
+  },
+  {
+    "area": "七台河",
+    "position": "新建　"
+  },
+  {
+    "area": "七台河",
+    "position": "葫头沟"
+  },
+  {
+    "area": "黑河",
+    "position": "交通局　"
+  },
+  {
+    "area": "黑河",
+    "position": "党校"
+  },
+  {
+    "area": "黑河",
+    "position": "地震局　"
+  },
+  {
+    "area": "绥化",
+    "position": "人和东街"
+  },
+  {
+    "area": "绥化",
+    "position": "党政办公中心"
+  },
+  {
+    "area": "大兴安岭地区",
+    "position": "环保局"
+  },
+  {
+    "area": "大兴安岭地区",
+    "position": "公安局"
+  },
+  {
+    "area": "蚌埠",
+    "position": "工人疗养院"
+  },
+  {
+    "area": "蚌埠",
+    "position": "百货大楼"
+  },
+  {
+    "area": "蚌埠",
+    "position": "二水厂"
+  },
+  {
+    "area": "蚌埠",
+    "position": "蚌埠学院"
+  },
+  {
+    "area": "蚌埠",
+    "position": "淮上区政府"
+  },
+  {
+    "area": "蚌埠",
+    "position": "高新区"
+  },
+  {
+    "area": "淮南",
+    "position": "大通区政府"
+  },
+  {
+    "area": "淮南",
+    "position": "潘集区政府"
+  },
+  {
+    "area": "淮南",
+    "position": "师范学院"
+  },
+  {
+    "area": "淮南",
+    "position": "谢家集区政府"
+  },
+  {
+    "area": "淮南",
+    "position": "八公山区政府"
+  },
+  {
+    "area": "淮南",
+    "position": "焦岗湖风景区管理处"
+  },
+  {
+    "area": "淮北",
+    "position": "监测站"
+  },
+  {
+    "area": "淮北",
+    "position": "烈山区政府"
+  },
+  {
+    "area": "淮北",
+    "position": "职业技术学院"
+  },
+  {
+    "area": "铜陵",
+    "position": "市第四中学"
+  },
+  {
+    "area": "铜陵",
+    "position": "市公路局"
+  },
+  {
+    "area": "铜陵",
+    "position": "市新民污水厂"
+  },
+  {
+    "area": "铜陵",
+    "position": "市第九中学"
+  },
+  {
+    "area": "铜陵",
+    "position": "车站新区"
+  },
+  {
+    "area": "铜陵",
+    "position": "市职教基地"
+  },
+  {
+    "area": "安庆",
+    "position": "环科院"
+  },
+  {
+    "area": "安庆",
+    "position": "马山宾馆"
+  },
+  {
+    "area": "安庆",
+    "position": "联富花园"
+  },
+  {
+    "area": "安庆",
+    "position": "安庆大学"
+  },
+  {
+    "area": "黄山",
+    "position": "黄山区政府5号楼"
+  },
+  {
+    "area": "滁州",
+    "position": "老年大学"
+  },
+  {
+    "area": "滁州",
+    "position": "人大宾馆"
+  },
+  {
+    "area": "滁州",
+    "position": "监测站"
+  },
+  {
+    "area": "阜阳",
+    "position": "市监测站"
+  },
+  {
+    "area": "阜阳",
+    "position": "市委党校"
+  },
+  {
+    "area": "阜阳",
+    "position": "开发区"
+  },
+  {
+    "area": "宿州",
+    "position": "监测楼"
+  },
+  {
+    "area": "宿州",
+    "position": "一中"
+  },
+  {
+    "area": "宿州",
+    "position": "火车站"
+  },
+  {
+    "area": "六安",
+    "position": "监测大楼"
+  },
+  {
+    "area": "六安",
+    "position": "皖西学院"
+  },
+  {
+    "area": "六安",
+    "position": "朝阳厂"
+  },
+  {
+    "area": "六安",
+    "position": "开发区"
+  },
+  {
+    "area": "亳州",
+    "position": "污水处理厂"
+  },
+  {
+    "area": "亳州",
+    "position": "三国揽胜宫"
+  },
+  {
+    "area": "池州",
+    "position": "环保大楼"
+  },
+  {
+    "area": "池州",
+    "position": "池州学院"
+  },
+  {
+    "area": "池州",
+    "position": "平天湖"
+  },
+  {
+    "area": "宣城",
+    "position": "鳌峰子站"
+  },
+  {
+    "area": "宣城",
+    "position": "敬亭山子站"
+  },
+  {
+    "area": "宣城",
+    "position": "开发区子站"
+  },
+  {
+    "area": "莆田",
+    "position": "荔城区仓后路"
+  },
+  {
+    "area": "莆田",
+    "position": "莆田市监测站"
+  },
+  {
+    "area": "莆田",
+    "position": "涵江区六中"
+  },
+  {
+    "area": "莆田",
+    "position": "秀屿区政府"
+  },
+  {
+    "area": "莆田",
+    "position": "东圳水库"
+  },
+  {
+    "area": "三明",
+    "position": "三钢"
+  },
+  {
+    "area": "三明",
+    "position": "三明二中"
+  },
+  {
+    "area": "三明",
+    "position": "三元区政府"
+  },
+  {
+    "area": "三明",
+    "position": "洋溪"
+  },
+  {
+    "area": "南平",
+    "position": "茫荡山"
+  },
+  {
+    "area": "南平",
+    "position": "南平市监测站"
+  },
+  {
+    "area": "南平",
+    "position": "南平铝业有限公司"
+  },
+  {
+    "area": "南平",
+    "position": "南平七中"
+  },
+  {
+    "area": "龙岩",
+    "position": "龙岩师专"
+  },
+  {
+    "area": "龙岩",
+    "position": "龙岩市监测站"
+  },
+  {
+    "area": "龙岩",
+    "position": "闽西职业技术学院"
+  },
+  {
+    "area": "龙岩",
+    "position": "龙岩学院"
+  },
+  {
+    "area": "宁德",
+    "position": "金涵水库"
+  },
+  {
+    "area": "宁德",
+    "position": "蕉城区农机局"
+  },
+  {
+    "area": "宁德",
+    "position": "宁德市监测站"
+  },
+  {
+    "area": "景德镇",
+    "position": "王岗中学"
+  },
+  {
+    "area": "景德镇",
+    "position": "老干部活动中心"
+  },
+  {
+    "area": "景德镇",
+    "position": "兽医站"
+  },
+  {
+    "area": "景德镇",
+    "position": "台达陶瓷"
+  },
+  {
+    "area": "景德镇",
+    "position": "陶研所"
+  },
+  {
+    "area": "萍乡",
+    "position": "武功山气象站"
+  },
+  {
+    "area": "萍乡",
+    "position": "中医院"
+  },
+  {
+    "area": "萍乡",
+    "position": "市政府车库"
+  },
+  {
+    "area": "萍乡",
+    "position": "市环保局"
+  },
+  {
+    "area": "萍乡",
+    "position": "安源区政府"
+  },
+  {
+    "area": "新余",
+    "position": "北岗"
+  },
+  {
+    "area": "新余",
+    "position": "飞宇"
+  },
+  {
+    "area": "新余",
+    "position": "第二水厂"
+  },
+  {
+    "area": "新余",
+    "position": "市气象局"
+  },
+  {
+    "area": "新余",
+    "position": "新钢氧气厂"
+  },
+  {
+    "area": "鹰潭",
+    "position": "龙虎山"
+  },
+  {
+    "area": "鹰潭",
+    "position": "新监测站"
+  },
+  {
+    "area": "鹰潭",
+    "position": "财苑宾馆"
+  },
+  {
+    "area": "鹰潭",
+    "position": "体育馆"
+  },
+  {
+    "area": "鹰潭",
+    "position": "三川水表"
+  },
+  {
+    "area": "赣州",
+    "position": "通天岩"
+  },
+  {
+    "area": "赣州",
+    "position": "地委"
+  },
+  {
+    "area": "赣州",
+    "position": "气象台"
+  },
+  {
+    "area": "赣州",
+    "position": "市图书馆"
+  },
+  {
+    "area": "赣州",
+    "position": "华坚鞋城"
+  },
+  {
+    "area": "吉安",
+    "position": "红声器材厂"
+  },
+  {
+    "area": "吉安",
+    "position": "市森林工业局"
+  },
+  {
+    "area": "吉安",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "吉安",
+    "position": "青原区法院"
+  },
+  {
+    "area": "宜春",
+    "position": "槟榔水业"
+  },
+  {
+    "area": "宜春",
+    "position": "市中国银行"
+  },
+  {
+    "area": "宜春",
+    "position": "市石油公司"
+  },
+  {
+    "area": "宜春",
+    "position": "市气象局"
+  },
+  {
+    "area": "宜春",
+    "position": "市广电局"
+  },
+  {
+    "area": "抚州",
+    "position": "桐源党溪"
+  },
+  {
+    "area": "抚州",
+    "position": "市站"
+  },
+  {
+    "area": "抚州",
+    "position": "血防站"
+  },
+  {
+    "area": "抚州",
+    "position": "采茶剧团"
+  },
+  {
+    "area": "抚州",
+    "position": "医学分院"
+  },
+  {
+    "area": "上饶",
+    "position": "百草园"
+  },
+  {
+    "area": "上饶",
+    "position": "市监测站"
+  },
+  {
+    "area": "上饶",
+    "position": "凤凰光学"
+  },
+  {
+    "area": "上饶",
+    "position": "开发区管委会"
+  },
+  {
+    "area": "鹤壁",
+    "position": "市监测站"
+  },
+  {
+    "area": "鹤壁",
+    "position": "市交警支队"
+  },
+  {
+    "area": "鹤壁",
+    "position": "迎宾馆"
+  },
+  {
+    "area": "新乡",
+    "position": "科技学院"
+  },
+  {
+    "area": "新乡",
+    "position": "环保西院"
+  },
+  {
+    "area": "新乡",
+    "position": "开发区"
+  },
+  {
+    "area": "新乡",
+    "position": "环保东院"
+  },
+  {
+    "area": "濮阳",
+    "position": "环保局"
+  },
+  {
+    "area": "濮阳",
+    "position": "紭天威"
+  },
+  {
+    "area": "濮阳",
+    "position": "油田运输公司"
+  },
+  {
+    "area": "濮阳",
+    "position": "油田物探公司"
+  },
+  {
+    "area": "许昌",
+    "position": "监测站"
+  },
+  {
+    "area": "许昌",
+    "position": "环保局"
+  },
+  {
+    "area": "许昌",
+    "position": "开发区"
+  },
+  {
+    "area": "漯河",
+    "position": "三五一五工厂"
+  },
+  {
+    "area": "漯河",
+    "position": "漯河大学"
+  },
+  {
+    "area": "漯河",
+    "position": "水利局"
+  },
+  {
+    "area": "漯河",
+    "position": "广电局"
+  },
+  {
+    "area": "南阳",
+    "position": "环保局　"
+  },
+  {
+    "area": "南阳",
+    "position": "瓦房庄"
+  },
+  {
+    "area": "南阳",
+    "position": "汉画馆"
+  },
+  {
+    "area": "南阳",
+    "position": "气象站"
+  },
+  {
+    "area": "南阳",
+    "position": "理工学院"
+  },
+  {
+    "area": "商丘",
+    "position": "环境监测站　"
+  },
+  {
+    "area": "商丘",
+    "position": "粮食局　"
+  },
+  {
+    "area": "商丘",
+    "position": "睢阳区环保局　"
+  },
+  {
+    "area": "商丘",
+    "position": "第三人民医院　"
+  },
+  {
+    "area": "驻马店",
+    "position": "市一纸厂　"
+  },
+  {
+    "area": "驻马店",
+    "position": "市彩印厂　"
+  },
+  {
+    "area": "驻马店",
+    "position": "天方二分厂　"
+  },
+  {
+    "area": "黄石",
+    "position": "沈家营"
+  },
+  {
+    "area": "黄石",
+    "position": "陈家湾"
+  },
+  {
+    "area": "黄石",
+    "position": "新下陆"
+  },
+  {
+    "area": "黄石",
+    "position": "铁山"
+  },
+  {
+    "area": "黄石",
+    "position": "经济开发区"
+  },
+  {
+    "area": "十堰",
+    "position": "武当山"
+  },
+  {
+    "area": "十堰",
+    "position": "滨河新村"
+  },
+  {
+    "area": "十堰",
+    "position": "刘家沟"
+  },
+  {
+    "area": "十堰",
+    "position": "铁二处"
+  },
+  {
+    "area": "鄂州",
+    "position": "市政府"
+  },
+  {
+    "area": "鄂州",
+    "position": "赵家坝"
+  },
+  {
+    "area": "鄂州",
+    "position": "凡口开发区"
+  },
+  {
+    "area": "荆门",
+    "position": "竹园小学"
+  },
+  {
+    "area": "荆门",
+    "position": "掇刀"
+  },
+  {
+    "area": "荆门",
+    "position": "石化一小"
+  },
+  {
+    "area": "荆门",
+    "position": "市政府"
+  },
+  {
+    "area": "孝感",
+    "position": "文化路"
+  },
+  {
+    "area": "孝感",
+    "position": "东城区"
+  },
+  {
+    "area": "黄冈",
+    "position": "大洲岛"
+  },
+  {
+    "area": "黄冈",
+    "position": "职工中心"
+  },
+  {
+    "area": "咸宁",
+    "position": "森林公园"
+  },
+  {
+    "area": "咸宁",
+    "position": "市发改委"
+  },
+  {
+    "area": "咸宁",
+    "position": "咸安区政府"
+  },
+  {
+    "area": "咸宁",
+    "position": "长江产业园"
+  },
+  {
+    "area": "随州",
+    "position": "市委党校"
+  },
+  {
+    "area": "随州",
+    "position": "市林业局"
+  },
+  {
+    "area": "随州",
+    "position": "市立交桥水厂"
+  },
+  {
+    "area": "恩施州",
+    "position": "湖北民院"
+  },
+  {
+    "area": "恩施州",
+    "position": "州电力总公司"
+  },
+  {
+    "area": "衡阳",
+    "position": "原169医院"
+  },
+  {
+    "area": "衡阳",
+    "position": "衡阳化工总厂"
+  },
+  {
+    "area": "衡阳",
+    "position": "珠晖区环保局"
+  },
+  {
+    "area": "衡阳",
+    "position": "市委党校"
+  },
+  {
+    "area": "衡阳",
+    "position": "市监测站"
+  },
+  {
+    "area": "衡阳",
+    "position": "真空机电公司"
+  },
+  {
+    "area": "邵阳",
+    "position": "市水土所"
+  },
+  {
+    "area": "邵阳",
+    "position": "市一中"
+  },
+  {
+    "area": "邵阳",
+    "position": "市化工厂"
+  },
+  {
+    "area": "邵阳",
+    "position": "市罐头厂"
+  },
+  {
+    "area": "邵阳",
+    "position": "市环保局"
+  },
+  {
+    "area": "益阳",
+    "position": "甘溪港"
+  },
+  {
+    "area": "益阳",
+    "position": "市环保局"
+  },
+  {
+    "area": "益阳",
+    "position": "市特殊教育学校"
+  },
+  {
+    "area": "益阳",
+    "position": "资阳区政务中心"
+  },
+  {
+    "area": "益阳",
+    "position": "赫山环保分局"
+  },
+  {
+    "area": "郴州",
+    "position": "马头岭"
+  },
+  {
+    "area": "郴州",
+    "position": "市职中"
+  },
+  {
+    "area": "郴州",
+    "position": "兴隆步行街"
+  },
+  {
+    "area": "郴州",
+    "position": "市审计局"
+  },
+  {
+    "area": "郴州",
+    "position": "市环保局"
+  },
+  {
+    "area": "永州",
+    "position": "零陵南津渡"
+  },
+  {
+    "area": "永州",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "永州",
+    "position": "零陵区环保局"
+  },
+  {
+    "area": "永州",
+    "position": "永州市环保局"
+  },
+  {
+    "area": "永州",
+    "position": "冷水滩区环保局"
+  },
+  {
+    "area": "怀化",
+    "position": "林科所"
+  },
+  {
+    "area": "怀化",
+    "position": "河西地税局"
+  },
+  {
+    "area": "怀化",
+    "position": "市四医院"
+  },
+  {
+    "area": "怀化",
+    "position": "监测楼"
+  },
+  {
+    "area": "怀化",
+    "position": "市委党校"
+  },
+  {
+    "area": "娄底",
+    "position": "电视发射台"
+  },
+  {
+    "area": "娄底",
+    "position": "市监测站"
+  },
+  {
+    "area": "娄底",
+    "position": "市委党校"
+  },
+  {
+    "area": "娄底",
+    "position": "涟钢"
+  },
+  {
+    "area": "娄底",
+    "position": "市政府"
+  },
+  {
+    "area": "湘西州",
+    "position": "跃进水库"
+  },
+  {
+    "area": "湘西州",
+    "position": "州政府"
+  },
+  {
+    "area": "湘西州",
+    "position": "吉首市计生局"
+  },
+  {
+    "area": "梧州",
+    "position": "市环保"
+  },
+  {
+    "area": "梧州",
+    "position": "云盖小学"
+  },
+  {
+    "area": "梧州",
+    "position": "龙圩"
+  },
+  {
+    "area": "梧州",
+    "position": "龙新"
+  },
+  {
+    "area": "防城港",
+    "position": "沙万"
+  },
+  {
+    "area": "防城港",
+    "position": "防城镇政府"
+  },
+  {
+    "area": "防城港",
+    "position": "大海花园"
+  },
+  {
+    "area": "钦州",
+    "position": "市环保站"
+  },
+  {
+    "area": "钦州",
+    "position": "市农科院"
+  },
+  {
+    "area": "钦州",
+    "position": "港区一小"
+  },
+  {
+    "area": "贵港",
+    "position": "德智高中"
+  },
+  {
+    "area": "贵港",
+    "position": "江南子站　"
+  },
+  {
+    "area": "贵港",
+    "position": "贵城子站"
+  },
+  {
+    "area": "贵港",
+    "position": "荷城子站"
+  },
+  {
+    "area": "玉林",
+    "position": "寒山水库"
+  },
+  {
+    "area": "玉林",
+    "position": "市监测站"
+  },
+  {
+    "area": "玉林",
+    "position": "南江一中"
+  },
+  {
+    "area": "百色",
+    "position": "市监测站"
+  },
+  {
+    "area": "百色",
+    "position": "市中心血站"
+  },
+  {
+    "area": "贺州",
+    "position": "环保小区"
+  },
+  {
+    "area": "贺州",
+    "position": "政协大楼"
+  },
+  {
+    "area": "河池",
+    "position": "东仁乐园"
+  },
+  {
+    "area": "河池",
+    "position": "市环保站"
+  },
+  {
+    "area": "河池",
+    "position": "市疾控中心"
+  },
+  {
+    "area": "来宾",
+    "position": "来宾二中"
+  },
+  {
+    "area": "来宾",
+    "position": "来冶招待所"
+  },
+  {
+    "area": "崇左",
+    "position": "市环保局江州分局"
+  },
+  {
+    "area": "崇左",
+    "position": "城南新区"
+  },
+  {
+    "area": "广元",
+    "position": "黑石坡"
+  },
+  {
+    "area": "广元",
+    "position": "老城"
+  },
+  {
+    "area": "广元",
+    "position": "南坝"
+  },
+  {
+    "area": "广元",
+    "position": "监测站"
+  },
+  {
+    "area": "遂宁",
+    "position": "石溪浩"
+  },
+  {
+    "area": "遂宁",
+    "position": "市监测站"
+  },
+  {
+    "area": "遂宁",
+    "position": "行政中心"
+  },
+  {
+    "area": "遂宁",
+    "position": "美宁食品公司"
+  },
+  {
+    "area": "内江",
+    "position": "市监测站"
+  },
+  {
+    "area": "内江",
+    "position": "东兴区政府"
+  },
+  {
+    "area": "内江",
+    "position": "内江二中"
+  },
+  {
+    "area": "内江",
+    "position": "内江日报社"
+  },
+  {
+    "area": "乐山",
+    "position": "乐山大佛景区"
+  },
+  {
+    "area": "乐山",
+    "position": "牛耳桥"
+  },
+  {
+    "area": "乐山",
+    "position": "市第三水厂"
+  },
+  {
+    "area": "乐山",
+    "position": "市监测站"
+  },
+  {
+    "area": "眉山",
+    "position": "蟆颐观"
+  },
+  {
+    "area": "眉山",
+    "position": "气象局"
+  },
+  {
+    "area": "眉山",
+    "position": "旭光小区"
+  },
+  {
+    "area": "眉山",
+    "position": "市监测站"
+  },
+  {
+    "area": "广安",
+    "position": "小平旧居"
+  },
+  {
+    "area": "广安",
+    "position": "市委"
+  },
+  {
+    "area": "广安",
+    "position": "友谊中学"
+  },
+  {
+    "area": "广安",
+    "position": "人工湖"
+  },
+  {
+    "area": "广安",
+    "position": "广电花园"
+  },
+  {
+    "area": "达州",
+    "position": "达州职业技术学院"
+  },
+  {
+    "area": "达州",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "达州",
+    "position": "凤凰小区"
+  },
+  {
+    "area": "达州",
+    "position": "达县机关宾馆"
+  },
+  {
+    "area": "达州",
+    "position": "市政中心"
+  },
+  {
+    "area": "雅安",
+    "position": "大兴526台"
+  },
+  {
+    "area": "雅安",
+    "position": "建安厂"
+  },
+  {
+    "area": "雅安",
+    "position": "市政府"
+  },
+  {
+    "area": "雅安",
+    "position": "川农大"
+  },
+  {
+    "area": "巴中",
+    "position": "南龛公园"
+  },
+  {
+    "area": "巴中",
+    "position": "市环保局"
+  },
+  {
+    "area": "巴中",
+    "position": "巴中中学"
+  },
+  {
+    "area": "巴中",
+    "position": "市六中"
+  },
+  {
+    "area": "资阳",
+    "position": "莲花山"
+  },
+  {
+    "area": "资阳",
+    "position": "资阳中学"
+  },
+  {
+    "area": "资阳",
+    "position": "四三一厂"
+  },
+  {
+    "area": "资阳",
+    "position": "师范校"
+  },
+  {
+    "area": "资阳",
+    "position": "区法院"
+  },
+  {
+    "area": "阿坝州",
+    "position": "州农科所"
+  },
+  {
+    "area": "阿坝州",
+    "position": "州监测站"
+  },
+  {
+    "area": "阿坝州",
+    "position": "马师校"
+  },
+  {
+    "area": "甘孜州",
+    "position": "将军桥"
+  },
+  {
+    "area": "甘孜州",
+    "position": "水桥子"
+  },
+  {
+    "area": "凉山州",
+    "position": "青龙寺"
+  },
+  {
+    "area": "凉山州",
+    "position": "邛海宾馆"
+  },
+  {
+    "area": "凉山州",
+    "position": "西昌市政府"
+  },
+  {
+    "area": "凉山州",
+    "position": "凉山州政府"
+  },
+  {
+    "area": "凉山州",
+    "position": "长安"
+  },
+  {
+    "area": "六盘水",
+    "position": "窑上"
+  },
+  {
+    "area": "六盘水",
+    "position": "黄土坡"
+  },
+  {
+    "area": "六盘水",
+    "position": "水钢"
+  },
+  {
+    "area": "六盘水",
+    "position": "民中"
+  },
+  {
+    "area": "六盘水",
+    "position": "双水"
+  },
+  {
+    "area": "安顺",
+    "position": "虹机厂子校"
+  },
+  {
+    "area": "安顺",
+    "position": "市一中"
+  },
+  {
+    "area": "安顺",
+    "position": "铁路子校"
+  },
+  {
+    "area": "安顺",
+    "position": "龙岩子校"
+  },
+  {
+    "area": "铜仁地区",
+    "position": "铜仁卫校"
+  },
+  {
+    "area": "铜仁地区",
+    "position": "铜仁七中"
+  },
+  {
+    "area": "毕节",
+    "position": "八中"
+  },
+  {
+    "area": "毕节",
+    "position": "师专"
+  },
+  {
+    "area": "黔西南州",
+    "position": "场坝街"
+  },
+  {
+    "area": "黔西南州",
+    "position": "坪东大道"
+  },
+  {
+    "area": "黔东南州",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "黔东南州",
+    "position": "马坡井小学"
+  },
+  {
+    "area": "黔南州",
+    "position": "小围寨"
+  },
+  {
+    "area": "保山",
+    "position": "市环保局"
+  },
+  {
+    "area": "保山",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "昭通",
+    "position": "监测站"
+  },
+  {
+    "area": "昭通",
+    "position": "环保局"
+  },
+  {
+    "area": "丽江",
+    "position": "西南郊"
+  },
+  {
+    "area": "丽江",
+    "position": "丽江古城"
+  },
+  {
+    "area": "丽江",
+    "position": "市中心"
+  },
+  {
+    "area": "临沧",
+    "position": "市环保局"
+  },
+  {
+    "area": "临沧",
+    "position": "市气象局"
+  },
+  {
+    "area": "楚雄州",
+    "position": "州环境监测站"
+  },
+  {
+    "area": "楚雄州",
+    "position": "市经济开发区"
+  },
+  {
+    "area": "红河州",
+    "position": "雨过铺"
+  },
+  {
+    "area": "红河州",
+    "position": "污水处理厂"
+  },
+  {
+    "area": "红河州",
+    "position": "监测站"
+  },
+  {
+    "area": "文山州",
+    "position": "州水务局"
+  },
+  {
+    "area": "文山州",
+    "position": "市便民服务中心"
+  },
+  {
+    "area": "西双版纳州",
+    "position": "景洪市江南"
+  },
+  {
+    "area": "西双版纳州",
+    "position": "景洪市江北"
+  },
+  {
+    "area": "大理州",
+    "position": "大理市环境监测站"
+  },
+  {
+    "area": "大理州",
+    "position": "大理古城"
+  },
+  {
+    "area": "德宏州",
+    "position": "德宏州监测站"
+  },
+  {
+    "area": "德宏州",
+    "position": "芒市建设局"
+  },
+  {
+    "area": "怒江州",
+    "position": "州监测站"
+  },
+  {
+    "area": "怒江州",
+    "position": "泸水一中"
+  },
+  {
+    "area": "迪庆州",
+    "position": "古城"
+  },
+  {
+    "area": "迪庆州",
+    "position": "迪庆州站"
+  },
+  {
+    "area": "昌都地区",
+    "position": "昌都监测站"
+  },
+  {
+    "area": "昌都地区",
+    "position": "昌都地区昌都坝"
+  },
+  {
+    "area": "山南地区",
+    "position": "山南监测站"
+  },
+  {
+    "area": "山南地区",
+    "position": "山南人民医院"
+  },
+  {
+    "area": "日喀则地区",
+    "position": "日喀则监测站"
+  },
+  {
+    "area": "日喀则地区",
+    "position": "日喀则鸿达公司"
+  },
+  {
+    "area": "那曲地区",
+    "position": "那曲监测站"
+  },
+  {
+    "area": "那曲地区",
+    "position": "那曲嘉兴医院"
+  },
+  {
+    "area": "阿里地区",
+    "position": "阿里监测站"
+  },
+  {
+    "area": "阿里地区",
+    "position": "阿里地委"
+  },
+  {
+    "area": "林芝地区",
+    "position": "林芝监测站"
+  },
+  {
+    "area": "林芝地区",
+    "position": "林芝人民医院"
+  },
+  {
+    "area": "汉中",
+    "position": "汉川机床厂子校"
+  },
+  {
+    "area": "汉中",
+    "position": "市监测站"
+  },
+  {
+    "area": "汉中",
+    "position": "鑫源开发区"
+  },
+  {
+    "area": "汉中",
+    "position": "南郑大河坎水厂"
+  },
+  {
+    "area": "榆林",
+    "position": "红石峡森林公园　"
+  },
+  {
+    "area": "榆林",
+    "position": "世纪广场　"
+  },
+  {
+    "area": "榆林",
+    "position": "实验中学"
+  },
+  {
+    "area": "榆林",
+    "position": "环保监测大楼　"
+  },
+  {
+    "area": "安康",
+    "position": "香溪洞"
+  },
+  {
+    "area": "安康",
+    "position": "安康市监测站"
+  },
+  {
+    "area": "安康",
+    "position": "汉滨区检察院"
+  },
+  {
+    "area": "商洛",
+    "position": "监测站"
+  },
+  {
+    "area": "商洛",
+    "position": "东龙山气象局"
+  },
+  {
+    "area": "白银",
+    "position": "豫源饭店"
+  },
+  {
+    "area": "白银",
+    "position": "动力公司"
+  },
+  {
+    "area": "天水",
+    "position": "仙人崖"
+  },
+  {
+    "area": "天水",
+    "position": "进步巷"
+  },
+  {
+    "area": "天水",
+    "position": "文化馆"
+  },
+  {
+    "area": "武威",
+    "position": "监测站"
+  },
+  {
+    "area": "武威",
+    "position": "雷台"
+  },
+  {
+    "area": "张掖",
+    "position": "监测站"
+  },
+  {
+    "area": "张掖",
+    "position": "科委"
+  },
+  {
+    "area": "平凉",
+    "position": "监测站"
+  },
+  {
+    "area": "平凉",
+    "position": "博物馆"
+  },
+  {
+    "area": "酒泉",
+    "position": "仓门街子站"
+  },
+  {
+    "area": "酒泉",
+    "position": "富康家世界子站"
+  },
+  {
+    "area": "庆阳",
+    "position": "区环保局"
+  },
+  {
+    "area": "庆阳",
+    "position": "粮贸总公司"
+  },
+  {
+    "area": "庆阳",
+    "position": "市环保局"
+  },
+  {
+    "area": "定西",
+    "position": "监测站（原粮食局）"
+  },
+  {
+    "area": "定西",
+    "position": "南峰招待所（原起重机厂）"
+  },
+  {
+    "area": "陇南",
+    "position": "汉王镇固水子"
+  },
+  {
+    "area": "陇南",
+    "position": "市林业局"
+  },
+  {
+    "area": "临夏州",
+    "position": "环保局"
+  },
+  {
+    "area": "临夏州",
+    "position": "州委党校"
+  },
+  {
+    "area": "甘南州",
+    "position": "监测站"
+  },
+  {
+    "area": "海东地区",
+    "position": "平安县"
+  },
+  {
+    "area": "海北州",
+    "position": "海晏县西海镇"
+  },
+  {
+    "area": "黄南州",
+    "position": "同仁县隆务镇"
+  },
+  {
+    "area": "海南州",
+    "position": "共和县恰卜恰镇"
+  },
+  {
+    "area": "果洛州",
+    "position": "玛沁县大武镇"
+  },
+  {
+    "area": "玉树州",
+    "position": "玉树县结古镇"
+  },
+  {
+    "area": "海西州",
+    "position": "德令哈市"
+  },
+  {
+    "area": "吴忠",
+    "position": "教育园区"
+  },
+  {
+    "area": "吴忠",
+    "position": "高级中学"
+  },
+  {
+    "area": "吴忠",
+    "position": "新区二泵站"
+  },
+  {
+    "area": "中卫",
+    "position": "沙坡头消防站"
+  },
+  {
+    "area": "中卫",
+    "position": "官桥站"
+  },
+  {
+    "area": "中卫",
+    "position": "环保局站"
+  },
+  {
+    "area": "固原",
+    "position": "马园"
+  },
+  {
+    "area": "固原",
+    "position": "监测站"
+  },
+  {
+    "area": "固原",
+    "position": "新区"
+  },
+  {
+    "area": "吐鲁番地区",
+    "position": "市环保局"
+  },
+  {
+    "area": "吐鲁番地区",
+    "position": "地区环保局"
+  },
+  {
+    "area": "哈密地区",
+    "position": "地区监测站"
+  },
+  {
+    "area": "哈密地区",
+    "position": "哈密师范学校"
+  },
+  {
+    "area": "昌吉州",
+    "position": "天山天池"
+  },
+  {
+    "area": "昌吉州",
+    "position": "州监测站"
+  },
+  {
+    "area": "昌吉州",
+    "position": "新区政务中心"
+  },
+  {
+    "area": "博州",
+    "position": "博乐市西郊区"
+  },
+  {
+    "area": "博州",
+    "position": "市环保局"
+  },
+  {
+    "area": "阿克苏地区",
+    "position": "电视台"
+  },
+  {
+    "area": "阿克苏地区",
+    "position": "艺术中心"
+  },
+  {
+    "area": "喀什地区",
+    "position": "巡警大队"
+  },
+  {
+    "area": "喀什地区",
+    "position": "吾办"
+  },
+  {
+    "area": "喀什地区",
+    "position": "市环境监测站"
+  },
+  {
+    "area": "和田地区",
+    "position": "地区站"
+  },
+  {
+    "area": "和田地区",
+    "position": "古江巴格乡院内"
+  },
+  {
+    "area": "伊犁哈萨克州",
+    "position": "市环保局"
+  },
+  {
+    "area": "伊犁哈萨克州",
+    "position": "新政府片区"
+  },
+  {
+    "area": "塔城地区",
+    "position": "东门外小游园"
+  },
+  {
+    "area": "阿勒泰地区",
+    "position": "小东沟"
+  },
+  {
+    "area": "阿勒泰地区",
+    "position": "市站"
+  },
+  {
+    "area": "石河子",
+    "position": "艾青诗歌馆"
+  },
+  {
+    "area": "石河子",
+    "position": "阳光学校"
+  },
+  {
+    "area": "五家渠",
+    "position": "农水大厦"
+  },
+  {
+    "area": "克州",
+    "position": "市人民政府"
+  },
+  {
+    "area": "普洱",
+    "position": "市环保局"
+  },
+  {
+    "area": "普洱",
+    "position": "普洱第二中学"
+  },
+  {
+    "area": "襄阳",
+    "position": "襄城运动路"
+  },
+  {
+    "area": "襄阳",
+    "position": "樊城新华路"
+  },
+  {
+    "area": "襄阳",
+    "position": "高新管委会"
+  },
+  {
+    "area": "襄阳",
+    "position": "襄州航空路"
+  },
+  {
+    "area": "吕梁",
+    "position": "豆制品厂"
+  },
+  {
+    "area": "吕梁",
+    "position": "自来水公司"
+  },
+  {
+    "area": "黄山",
+    "position": "延安路89号"
+  },
+  {
+    "area": "黄山",
+    "position": "黄山东路89号"
+  },
+  {
+    "area": "攀枝花",
+    "position": "四十中小"
+  },
+  {
+    "area": "厦门",
+    "position": "湖里中学"
+  },
+  {
+    "area": "天津",
+    "position": "南口路"
+  },
+  {
+    "area": "天津",
+    "position": "勤俭路"
+  },
+  {
+    "area": "天津",
+    "position": "大直沽八号路"
+  },
+  {
+    "area": "天津",
+    "position": "前进路"
+  },
+  {
+    "area": "天津",
+    "position": "跃进路"
+  },
+  {
+    "area": "天津",
+    "position": "第四大街"
+  },
+  {
+    "area": "天津",
+    "position": "航天路"
+  },
+  {
+    "area": "天津",
+    "position": "汉北路"
+  },
+  {
+    "area": "沈阳",
+    "position": "浑南东路"
+  },
+  {
+    "area": "沈阳",
+    "position": "新秀街"
+  },
+  {
+    "area": "沈阳",
+    "position": "沧海路"
+  },
+  {
+    "area": "沈阳",
+    "position": "东陵路"
+  },
+  {
+    "area": "沈阳",
+    "position": "陵东街"
+  },
+  {
+    "area": "沈阳",
+    "position": "文化路"
+  },
+  {
+    "area": "沈阳",
+    "position": "南十东路"
+  },
+  {
+    "area": "沈阳",
+    "position": "京沈街"
+  },
+  {
+    "area": "无锡",
+    "position": "雪浪"
+  },
+  {
+    "area": "无锡",
+    "position": "黄巷"
+  },
+  {
+    "area": "无锡",
+    "position": "荣巷"
+  },
+  {
+    "area": "贵阳",
+    "position": "燕子冲"
+  },
+  {
+    "area": "贵阳",
+    "position": "碧云窝"
+  },
+  {
+    "area": "贵阳",
+    "position": "中院村"
+  },
+  {
+    "area": "贵阳",
+    "position": "红边门"
+  },
+  {
+    "area": "贵阳",
+    "position": "新华路"
+  },
+  {
+    "area": "营口",
+    "position": "学府南路"
+  },
+  {
+    "area": "营口",
+    "position": "大庆路"
+  },
+  {
+    "area": "营口",
+    "position": "镜湖西路"
+  },
+  {
+    "area": "盘锦",
+    "position": "新生街道"
+  },
+  {
+    "area": "葫芦岛",
+    "position": "龙港区"
+  },
+  {
+    "area": "葫芦岛",
+    "position": "化工街"
+  },
+  {
+    "area": "葫芦岛",
+    "position": "新区"
+  },
+  {
+    "area": "葫芦岛",
+    "position": "东城区"
+  },
+  {
+    "area": "河源",
+    "position": "源西"
+  },
+  {
+    "area": "清远",
+    "position": "高新区"
+  },
+  {
+    "area": "揭阳",
+    "position": "新兴"
+  },
+  {
+    "area": "揭阳",
+    "position": "西马"
+  },
+  {
+    "area": "揭阳",
+    "position": "东兴"
+  },
+  {
+    "area": "揭阳",
+    "position": "渔湖"
+  },
+  {
+    "area": "鞍山",
+    "position": "千山"
+  },
+  {
+    "area": "锦州",
+    "position": "百股街道"
+  },
+  {
+    "area": "锦州",
+    "position": "天安街道"
+  },
+  {
+    "area": "辽阳",
+    "position": "宏伟区"
+  },
+  {
+    "area": "辽阳",
+    "position": "新华园"
+  },
+  {
+    "area": "辽阳",
+    "position": "滨河路"
+  },
+  {
+    "area": "辽阳",
+    "position": "铁西工业园"
+  },
+  {
+    "area": "铁岭",
+    "position": "汇工街西"
+  },
+  {
+    "area": "铁岭",
+    "position": "银州路东段"
+  },
+  {
+    "area": "铁岭",
+    "position": "金沙江路北"
+  },
+  {
+    "area": "朝阳",
+    "position": "西梁"
+  },
+  {
+    "area": "朝阳",
+    "position": "河畔小区"
+  },
+  {
+    "area": "朝阳",
+    "position": "八里堡"
+  },
+  {
+    "area": "朝阳",
+    "position": "农业园区"
+  },
+  {
+    "area": "沈阳",
+    "position": "森林路"
+  },
+  {
+    "area": "东莞",
+    "position": "东城主山"
+  },
+  {
+    "area": "东莞",
+    "position": "莞城梨川"
+  },
+  {
+    "area": "成都",
+    "position": "君平街"
+  },
+  {
+    "area": "贵阳",
+    "position": "鉴湖路"
+  },
+  {
+    "area": "丹东",
+    "position": "江湾东路"
+  },
+  {
+    "area": "丹东",
+    "position": "临江后街"
+  },
+  {
+    "area": "丹东",
+    "position": "元宝山"
+  },
+  {
+    "area": "丹东",
+    "position": "民主桥"
+  },
+  {
+    "area": "河源",
+    "position": "东埔"
+  },
+  {
+    "area": "河源",
+    "position": "老城"
+  },
+  {
+    "area": "清远",
+    "position": "环保大楼"
+  },
+  {
+    "area": "鞍山",
+    "position": "太阳城"
+  },
+  {
+    "area": "鞍山",
+    "position": "太平"
+  },
+  {
+    "area": "鞍山",
+    "position": "铁西三道街"
+  },
+  {
+    "area": "鞍山",
+    "position": "铁西工业园区"
+  },
+  {
+    "area": "抚顺",
+    "position": "望花区"
+  },
+  {
+    "area": "抚顺",
+    "position": "顺城区"
+  },
+  {
+    "area": "抚顺",
+    "position": "东洲区"
+  },
+  {
+    "area": "抚顺",
+    "position": "新抚区"
+  },
+  {
+    "area": "抚顺",
+    "position": "大伙房水库"
+  },
+  {
+    "area": "本溪",
+    "position": "新立屯"
+  },
+  {
+    "area": "阜新",
+    "position": "长青街"
+  },
+  {
+    "area": "阜新",
+    "position": "东苑"
+  },
+  {
+    "area": "阜新",
+    "position": "玉龙新城"
+  },
+  {
+    "area": "伊犁哈萨克",
+    "position": "第二水厂"
+  },
+  {
+    "area": "伊犁哈萨克",
+    "position": "新政府片区"
+  },
+  {
+    "area": "伊犁哈萨克州",
+    "position": "第二水厂"
+  },
+  {
+    "area": "大兴安岭地",
+    "position": "环保局"
+  },
+  {
+    "area": "长治",
+    "position": "德盛苑"
+  },
+  {
+    "area": "大兴安岭地",
+    "position": "公安局"
+  },
+  {
+    "area": "伊犁哈萨克",
+    "position": "市环保局"
+  },
+  {
+    "area": "广州",
+    "position": "体育西"
+  },
+  {
+    "area": "上海",
+    "position": "普陀"
+  },
+  {
+    "area": "天津",
+    "position": "河西一经路"
+  },
+  {
+    "area": "天津",
+    "position": "津沽路"
+  },
+  {
+    "area": "天津",
+    "position": "宾水西道"
+  },
+  {
+    "area": "晋中",
+    "position": "榆次三中"
+  },
+  {
+    "area": "运城",
+    "position": "外滩首府"
+  },
+  {
+    "area": "吕梁",
+    "position": "马茂庄小学"
+  },
+  {
+    "area": "吉林",
+    "position": "九站"
+  },
+  {
+    "area": "镇江",
+    "position": "市疾控中心"
+  },
+  {
+    "area": "宁波",
+    "position": "万里国际学校"
+  },
+  {
+    "area": "嘉兴",
+    "position": "南湖区残联"
+  },
+  {
+    "area": "淮南",
+    "position": "益益乳业工业园"
+  },
+  {
+    "area": "阜阳",
+    "position": "阜阳职业技术学院"
+  },
+  {
+    "area": "成都",
+    "position": "大石西路"
+  },
+  {
+    "area": "嘉峪关",
+    "position": "酒钢宾馆"
+  },
+  {
+    "area": "陇南",
+    "position": "滨江中学"
+  },
+  {
+    "area": "石家庄",
+    "position": "22中南校区"
+  },
+  {
+    "area": "黔东南州",
+    "position": "凯里学院"
+  },
+  {
+    "area": "湖州",
+    "position": "仁皇山新区"
+  },
+  {
+    "area": "潍坊",
+    "position": "幼特教师范"
+  },
+  {
+    "area": "潍坊",
+    "position": "坊子邮政"
+  },
+  {
+    "area": "聊城",
+    "position": "聊大东校"
+  },
+  {
+    "area": "沈阳",
+    "position": "沈辽西路"
+  },
+  {
+    "area": "沈阳",
+    "position": "裕农路"
+  },
+  {
+    "area": "广安",
+    "position": "北辰小学"
+  },
+  {
+    "area": "湖州",
+    "position": "吴兴区"
+  },
+  {
+    "area": "湖州",
+    "position": "吴兴区站"
+  },
+  {
+    "area": "巴中",
+    "position": "苏山坪"
+  },
+  {
+    "area": "巴中",
+    "position": "职业中学"
+  },
+  {
+    "area": "池州",
+    "position": "老干部局"
+  },
+  {
+    "area": "廊坊",
+    "position": "河北工业大学"
+  },
+  {
+    "area": "漳州",
+    "position": "蓝田镇"
+  },
+  {
+    "area": "天津",
+    "position": "大理道"
+  },
+  {
+    "area": "大同",
+    "position": "供排水公司"
+  },
+  {
+    "area": "银川",
+    "position": "水乡路(直管站)"
+  },
+  {
+    "area": "绍兴",
+    "position": "树下王站"
+  },
+  {
+    "area": "银川",
+    "position": "上海东路"
+  },
+  {
+    "area": "银川",
+    "position": "文昌北街"
+  },
+  {
+    "area": "连云港",
+    "position": "胡沟管理处"
+  },
+  {
+    "area": "连云港",
+    "position": "矿山设计院"
+  },
+  {
+    "area": "连云港",
+    "position": "德源药业(直管站)"
+  },
+  {
+    "area": "泰州",
+    "position": "王营"
+  },
+  {
+    "area": "盐城",
+    "position": "宝龙广场"
+  },
+  {
+    "area": "常州",
+    "position": "行政中心"
+  },
+  {
+    "area": "常州",
+    "position": "经开区"
+  },
+  {
+    "area": "常州",
+    "position": "钟楼"
+  },
+  {
+    "area": "徐州",
+    "position": "鼓楼区政府"
+  },
+  {
+    "area": "徐州",
+    "position": "铜山区招生办"
+  },
+  {
+    "area": "金华",
+    "position": "武警支队"
+  },
+  {
+    "area": "荆门",
+    "position": "西山林语(启用161103)"
+  },
+  {
+    "area": "荆门",
+    "position": "西山林语"
+  },
+  {
+    "area": "宿迁",
+    "position": "市供电局"
+  },
+  {
+    "area": "扬州",
+    "position": "五台山医院"
+  },
+  {
+    "area": "黄冈",
+    "position": "红卫路"
+  },
+  {
+    "area": "重庆",
+    "position": "歇台子"
+  },
+  {
+    "area": "重庆",
+    "position": "龙井湾"
+  },
+  {
+    "area": "重庆",
+    "position": "龙洲湾"
+  },
+  {
+    "area": "三沙",
+    "position": "西沙"
+  },
+  {
+    "area": "临汾",
+    "position": "唐尧大酒店"
+  },
+  {
+    "area": "天津",
+    "position": "中山北路"
+  },
+  {
+    "area": "濮阳",
+    "position": "濮水河管理处"
+  },
+  {
+    "area": "洛阳",
+    "position": "凯旋路小学"
+  },
+  {
+    "area": "玉溪",
+    "position": "玉溪一中"
+  },
+  {
+    "area": "玉溪",
+    "position": "文体中心"
+  },
+  {
+    "area": "清远",
+    "position": "技师学院"
+  },
+  {
+    "area": "潮州",
+    "position": "市政府"
+  },
+  {
+    "area": "海门",
+    "position": "社会福利院"
+  },
+  {
+    "area": "自贡",
+    "position": "青杠林路"
+  },
+  {
+    "area": "乌鲁木齐",
+    "position": "培训基地"
+  },
+  {
+    "area": "天津",
+    "position": "勤俭道"
+  },
+  {
+    "area": "天津",
+    "position": "前进道"
+  },
+  {
+    "area": "天津",
+    "position": " 淮河道"
+  },
+  {
+    "area": "乌兰察布",
+    "position": "光明街小学"
+  },
+  {
+    "area": "兴安盟",
+    "position": "北滨河"
+  },
+  {
+    "area": "自贡",
+    "position": "檀木林体育馆"
+  },
+  {
+    "area": "红河州",
+    "position": "州图书馆"
+  },
+  {
+    "area": "三门峡",
+    "position": "第一小学"
+  },
+  {
+    "area": "东营",
+    "position": "开发区管委会"
+  },
+  {
+    "area": "南昌",
+    "position": "机电学校"
+  },
+  {
+    "area": "福州",
+    "position": "九龙"
+  },
+  {
+    "area": "天津",
+    "position": "西四道"
+  },
+  {
+    "area": "新乡",
+    "position": "市委党校"
+  },
+  {
+    "area": "烟台",
+    "position": "牟平检察院"
+  },
+  {
+    "area": "莱芜",
+    "position": "泰兴公司"
+  },
+  {
+    "area": "赤峰",
+    "position": "银河街"
+  },
+  {
+    "area": "呼伦贝尔",
+    "position": "国华电力东"
+  },
+  {
+    "area": "莱芜",
+    "position": "莱芜战役纪念馆"
+  },
+  {
+    "area": "德州",
+    "position": "九衢泉纯净水厂"
+  },
+  {
+    "area": "甘孜藏族自治州",
+    "position": "州环保局"
+  },
+  {
+    "area": "甘孜州",
+    "position": "州环保局"
+  },
+  {
+    "area": "淮南",
+    "position": "大通区政府（已停运）"
+  },
+  {
+    "area": "昌都",
+    "position": "昌都监测站"
+  },
+  {
+    "area": "昌都",
+    "position": "昌都地区昌都坝"
+  },
+  {
+    "area": "山南",
+    "position": "山南监测站"
+  },
+  {
+    "area": "山南",
+    "position": "山南人民医院"
+  },
+  {
+    "area": "日喀则",
+    "position": "日喀则监测站"
+  },
+  {
+    "area": "日喀则",
+    "position": "日喀则鸿达公司"
+  },
+  {
+    "area": "林芝",
+    "position": "林芝监测站"
+  },
+  {
+    "area": "林芝",
+    "position": "林芝人民医院"
+  },
+  {
+    "area": "西宁",
+    "position": "城北区政府"
+  },
+  {
+    "area": "商洛",
+    "position": "商州区中学"
+  },
+  {
+    "area": "乐山",
+    "position": "花湖湾"
+  },
+  {
+    "area": "海东地区",
+    "position": "平安高铁新区"
+  },
+  {
+    "area": "那曲地区",
+    "position": "那曲会议中心"
+  },
+  {
+    "area": "重庆",
+    "position": "上清寺"
+  },
+  {
+    "area": "许昌",
+    "position": "市一中"
+  },
+  {
+    "area": "安顺",
+    "position": "伍家关(对照点)"
+  },
+  {
+    "area": "安顺",
+    "position": "凤凰山"
+  },
+  {
+    "area": "安顺",
+    "position": "金钟山"
+  },
+  {
+    "area": "安顺",
+    "position": "娄家坡"
+  },
+  {
+    "area": "张家口",
+    "position": "烟厂"
+  },
+  {
+    "area": "秦皇岛",
+    "position": "文明里(启用171012)"
+  },
+  {
+    "area": "成都",
+    "position": "龙泉驿区区政府"
+  },
+  {
+    "area": "常德",
+    "position": "武陵区永安(启用171130)"
+  },
+  {
+    "area": "常德",
+    "position": "鼎城区玉霞(启用171130)"
+  },
+  {
+    "area": "常德",
+    "position": "武陵区长庚"
+  },
+  {
+    "area": "安阳",
+    "position": "信访局"
+  },
+  {
+    "area": "开封",
+    "position": "龙亭公园"
+  },
+  {
+    "area": "黄石",
+    "position": "团城山"
+  },
+  {
+    "area": "眉山",
+    "position": "市委党校"
+  },
+  {
+    "area": "眉山",
+    "position": "区人社局"
+  },
+  {
+    "area": "黄石",
+    "position": "笔架山北路"
+  },
+  {
+    "area": "武汉",
+    "position": "民族大道182号"
+  },
+  {
+    "area": "临汾",
+    "position": "市监测站(停运161122)"
+  },
+  {
+    "area": "临汾",
+    "position": "尧庙镇"
+  },
+  {
+    "area": "临汾",
+    "position": "唐尧大酒店(启用161122)"
+  },
+  {
+    "area": "深圳",
+    "position": "通心岭子站"
+  },
+  {
+    "area": "深圳",
+    "position": "南海子站"
+  },
+  {
+    "area": "扬州",
+    "position": "五台山医院(启用161107)"
+  },
+  {
+    "area": "扬州",
+    "position": "广陵建设局"
+  },
+  {
+    "area": "咸阳",
+    "position": "气象站(对照点)"
+  },
+  {
+    "area": "咸阳",
+    "position": "两寺渡"
+  },
+  {
+    "area": "焦作",
+    "position": "市环保局"
+  },
+  {
+    "area": "焦作",
+    "position": "影视城(对照点)"
+  },
+  {
+    "area": "焦作",
+    "position": "太极体育中心"
+  },
+  {
+    "area": "金昌",
+    "position": "市委党校(启用180727)"
+  },
+  {
+    "area": "安庆",
+    "position": "市人大"
+  },
+  {
+    "area": "安庆",
+    "position": "安庆大学(对照点)"
+  },
+  {
+    "area": "潍坊",
+    "position": "潍坊七中"
+  },
+  {
+    "area": "昆明",
+    "position": "西山森林公园(对照点)"
+  },
+  {
+    "area": "昆明",
+    "position": "官渡区博物馆（180930启用）"
+  },
+  {
+    "area": "迪庆州",
+    "position": "质量技术监督局（20180930启用）"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "岭北(对照点)"
+  },
+  {
+    "area": "巴中",
+    "position": "丽阳花园"
+  },
+  {
+    "area": "巴中",
+    "position": "圣泉水务公司"
+  },
+  {
+    "area": "哈尔滨",
+    "position": "市委党校"
+  },
+  {
+    "area": "太原",
+    "position": "巨轮"
+  },
+  {
+    "area": "兰州",
+    "position": "榆中兰大校区(对照点)"
+  },
+  {
+    "area": "兰州",
+    "position": "教育港（20181115启用）"
+  },
+  {
+    "area": "衡水",
+    "position": "市城管局(181124启用)"
+  },
+  {
+    "area": "九江",
+    "position": "庐山气象台(对照点)"
+  },
+  {
+    "area": "九江",
+    "position": "外国语学校（20181128启用）"
+  },
+  {
+    "area": "宿迁",
+    "position": "市供电局(启用161107)"
+  },
+  {
+    "area": "宿州",
+    "position": "远航博物馆(181204启用)"
+  },
+  {
+    "area": "宿迁",
+    "position": "宿豫区政府(181206启用)"
+  },
+  {
+    "area": "扬州",
+    "position": "城东财政所(停运180626)"
+  },
+  {
+    "area": "扬州",
+    "position": "第四医院(停运161107)"
+  },
+  {
+    "area": "扬州",
+    "position": "广陵建设局(启用180626)"
+  },
+  {
+    "area": "扬州",
+    "position": "市体育局（181219启用）"
+  },
+  {
+    "area": "榆林",
+    "position": "红石峡森林公园(对照点)"
+  },
+  {
+    "area": "榆林",
+    "position": "世纪广场"
+  },
+  {
+    "area": "榆林",
+    "position": "环保监测大楼"
+  },
+  {
+    "area": "荆州",
+    "position": "管委会(启用181220)"
+  },
+  {
+    "area": "宜春",
+    "position": "槟榔水业(对照点)"
+  },
+  {
+    "area": "宜春",
+    "position": "宜春学院北校区（181229启用）"
+  },
+  {
+    "area": "武威",
+    "position": "东关招商场(190211启用)"
+  },
+  {
+    "area": "遵义",
+    "position": "舟水桥(190215启用)"
+  },
+  {
+    "area": "商丘",
+    "position": "环境监测站"
+  },
+  {
+    "area": "商丘",
+    "position": "粮食局"
+  },
+  {
+    "area": "商丘",
+    "position": "睢阳区环保局"
+  },
+  {
+    "area": "商丘",
+    "position": "梁园区档案局(20190220启用)"
+  },
+  {
+    "area": "聊城",
+    "position": "二轻机（已停运）"
+  },
+  {
+    "area": "聊城",
+    "position": "监控中心(20190222启用)"
+  },
+  {
+    "area": "重庆",
+    "position": "高家花园(停运161118)"
+  },
+  {
+    "area": "重庆",
+    "position": "解放碑(停运170928)"
+  },
+  {
+    "area": "重庆",
+    "position": "杨家坪(停运161118)"
+  },
+  {
+    "area": "重庆",
+    "position": "南泉(停运161119)"
+  },
+  {
+    "area": "重庆",
+    "position": "缙云山（对照点）"
+  },
+  {
+    "area": "重庆",
+    "position": "歇台子(启用161118)"
+  },
+  {
+    "area": "重庆",
+    "position": "龙井湾(启用161118)"
+  },
+  {
+    "area": "重庆",
+    "position": "龙洲湾(启用161119)"
+  },
+  {
+    "area": "重庆",
+    "position": "上清寺(启用170928)"
+  },
+  {
+    "area": "新余",
+    "position": "北岗(对照点)"
+  },
+  {
+    "area": "新余",
+    "position": "新钢沁园村(20190301启用)"
+  },
+  {
+    "area": "平顶山",
+    "position": "规划局(20190304启用)"
+  },
+  {
+    "area": "滁州",
+    "position": "市政府原办公楼(190307启用)"
+  },
+  {
+    "area": "济南",
+    "position": "技术学院"
+  },
+  {
+    "area": "济南",
+    "position": "泰兴公司"
+  },
+  {
+    "area": "济南",
+    "position": "莱芜战役纪念馆"
+  },
+  {
+    "area": "滁州",
+    "position": "市政府原办公楼(20190308启用)"
+  },
+  {
+    "area": "忻州",
+    "position": "市政府(20190313启用)"
+  },
+  {
+    "area": "天津",
+    "position": "市监测中心(停运150702)"
+  },
+  {
+    "area": "天津",
+    "position": "南口路(停运161122)"
+  },
+  {
+    "area": "天津",
+    "position": "南京路(停运160601)"
+  },
+  {
+    "area": "天津",
+    "position": "淮河道"
+  },
+  {
+    "area": "天津",
+    "position": "天山路(停运150702)"
+  },
+  {
+    "area": "天津",
+    "position": "梅江小区(停运150702)"
+  },
+  {
+    "area": "天津",
+    "position": "航天路(停运170426)"
+  },
+  {
+    "area": "天津",
+    "position": "团泊洼(对照点)"
+  },
+  {
+    "area": "常州",
+    "position": "城建学校(停运161026)"
+  },
+  {
+    "area": "常州",
+    "position": "常工院(停运161026)"
+  },
+  {
+    "area": "常州",
+    "position": "潞城(停运161026)"
+  },
+  {
+    "area": "宁德",
+    "position": "金涵水库(对照点)"
+  },
+  {
+    "area": "天津",
+    "position": "河西一经路(启用150702)"
+  },
+  {
+    "area": "天津",
+    "position": "津沽路(启用150702)"
+  },
+  {
+    "area": "天津",
+    "position": "宾水西道(启用150702)"
+  },
+  {
+    "area": "天津",
+    "position": "大理道(启用160601)"
+  },
+  {
+    "area": "常州",
+    "position": "行政中心(启用161026)"
+  },
+  {
+    "area": "常州",
+    "position": "经开区(启用161026)"
+  },
+  {
+    "area": "常州",
+    "position": "钟楼(启用161026)"
+  },
+  {
+    "area": "天津",
+    "position": "中山北路(启用161122)"
+  },
+  {
+    "area": "天津",
+    "position": "西四道(启用170426)"
+  },
+  {
+    "area": "宁德",
+    "position": "宁德一中(20190319启用)"
+  },
+  {
+    "area": "太原",
+    "position": "上兰(对照点)"
+  },
+  {
+    "area": "太原",
+    "position": "巨轮(启用181031)"
+  },
+  {
+    "area": "开封",
+    "position": "龙亭公园(启用180109)"
+  },
+  {
+    "area": "开封",
+    "position": "汴京公园(20190322启用)"
+  },
+  {
+    "area": "江门",
+    "position": "东湖(对照点)"
+  },
+  {
+    "area": "漳州",
+    "position": "蓝田(停运160601)"
+  },
+  {
+    "area": "漳州",
+    "position": "九湖(对照点)"
+  },
+  {
+    "area": "漳州",
+    "position": "蓝田镇(启用160601)"
+  },
+  {
+    "area": "漳州",
+    "position": "漳州党校(20190503启用)"
+  },
+  {
+    "area": "南阳",
+    "position": "环保局"
+  },
+  {
+    "area": "郑州",
+    "position": "岗李水库(对照点)"
+  },
+  {
+    "area": "芜湖",
+    "position": "济民医院(对照点)"
+  },
+  {
+    "area": "池州",
+    "position": "平天湖(对照点)"
+  },
+  {
+    "area": "池州",
+    "position": "展览馆(190815启用)"
+  },
+  {
+    "area": "辽源",
+    "position": "银鹰制药(20190903启用)"
+  },
+  {
+    "area": "安庆",
+    "position": "联富花园(停运180816)"
+  },
+  {
+    "area": "咸宁",
+    "position": "长江产业园（并行145）"
+  },
+  {
+    "area": "安庆",
+    "position": "安庆大学(191227更为评价点)"
+  },
+  {
+    "area": "咸宁",
+    "position": "森林公园(对照点)"
+  },
+  {
+    "area": "安庆",
+    "position": "市人大(启用180816)"
+  },
+  {
+    "area": "烟台",
+    "position": "牟平环保局(停运170519)"
+  },
+  {
+    "area": "烟台",
+    "position": "牟平检察院(启用170519)"
+  },
+  {
+    "area": "烟台",
+    "position": "中国农业大学(145)"
+  },
+  {
+    "area": "齐齐哈尔",
+    "position": "富区环保局(停运191231)"
+  },
+  {
+    "area": "大兴安岭地",
+    "position": "环保局(停运191231)"
+  },
+  {
+    "area": "萍乡",
+    "position": "武功山气象站(对照点)"
+  },
+  {
+    "area": "齐齐哈尔",
+    "position": "富区青少年活动中心(启用191231)"
+  },
+  {
+    "area": "大兴安岭地区",
+    "position": "红旗社区(启用191231)"
+  },
+  {
+    "area": "大兴安岭地区",
+    "position": "环保局(停运191231)"
+  },
+  {
+    "area": "大同",
+    "position": "果树场(对照点)"
+  },
+  {
+    "area": "大同",
+    "position": "红旗广场(停运160601)"
+  },
+  {
+    "area": "营口",
+    "position": "老边实验中学(145)"
+  },
+  {
+    "area": "营口",
+    "position": "鲅鱼圈市民活动中心(145启用191224)"
+  },
+  {
+    "area": "大同",
+    "position": "第二人民医院(145搬迁启用200102)"
+  },
+  {
+    "area": "德宏州",
+    "position": "芒市人民政府综合楼(启用200103)"
+  },
+  {
+    "area": "济宁",
+    "position": "市第七中学(启用200103)"
+  },
+  {
+    "area": "南昌",
+    "position": "武术学校(对照点)"
+  },
+  {
+    "area": "南昌",
+    "position": "机电学校(启用170322)"
+  },
+  {
+    "area": "南昌",
+    "position": "南昌经开区桑海产业园(新增191231)"
+  },
+  {
+    "area": "南昌",
+    "position": "外国语学校(微调200108)"
+  },
+  {
+    "area": "唐山",
+    "position": "消防缸窑路中队(启用200109)"
+  },
+  {
+    "area": "唐山",
+    "position": "路南电大(启用200110)"
+  },
+  {
+    "area": "上饶",
+    "position": "百草园(对照点)"
+  },
+  {
+    "area": "上饶",
+    "position": "双创科技楼(启用200112)"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "红旗小学(启用200113)"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "海东办(启用200113)"
+  },
+  {
+    "area": "宿州",
+    "position": "远航博物馆（20181204启用）"
+  },
+  {
+    "area": "宿州",
+    "position": "皖北煤电集团(启用200114)"
+  },
+  {
+    "area": "安阳",
+    "position": "棉研所(对照点)"
+  },
+  {
+    "area": "安阳",
+    "position": "信访局(启用171207)"
+  },
+  {
+    "area": "临汾",
+    "position": "城南(启用191230)"
+  },
+  {
+    "area": "安阳",
+    "position": "安钢职工学校(启用200115)"
+  },
+  {
+    "area": "秦皇岛",
+    "position": "文明里"
+  },
+  {
+    "area": "常德",
+    "position": "武陵区永安"
+  },
+  {
+    "area": "常德",
+    "position": "鼎城区玉霞"
+  },
+  {
+    "area": "宜春",
+    "position": "宜春学院北校区"
+  },
+  {
+    "area": "金昌",
+    "position": "市委党校"
+  },
+  {
+    "area": "商丘",
+    "position": "梁园区档案局"
+  },
+  {
+    "area": "昆明",
+    "position": "官渡区博物馆"
+  },
+  {
+    "area": "迪庆州",
+    "position": "质量技术监督局"
+  },
+  {
+    "area": "兰州",
+    "position": "教育港"
+  },
+  {
+    "area": "宿州",
+    "position": "远航博物馆"
+  },
+  {
+    "area": "衡水",
+    "position": "市城管局"
+  },
+  {
+    "area": "九江",
+    "position": "外国语学校"
+  },
+  {
+    "area": "宿迁",
+    "position": "宿豫区政府"
+  },
+  {
+    "area": "荆州",
+    "position": "管委会"
+  },
+  {
+    "area": "扬州",
+    "position": "市体育局"
+  },
+  {
+    "area": "聊城",
+    "position": "监控中心"
+  },
+  {
+    "area": "武威",
+    "position": "东关招商场"
+  },
+  {
+    "area": "平顶山",
+    "position": "规划局"
+  },
+  {
+    "area": "新余",
+    "position": "新钢沁园村"
+  },
+  {
+    "area": "滁州",
+    "position": "市政府原办公楼"
+  },
+  {
+    "area": "忻州",
+    "position": "市政府"
+  },
+  {
+    "area": "宁德",
+    "position": "宁德一中"
+  },
+  {
+    "area": "开封",
+    "position": "汴京公园"
+  },
+  {
+    "area": "漳州",
+    "position": "漳州党校"
+  },
+  {
+    "area": "池州",
+    "position": "展览馆"
+  },
+  {
+    "area": "辽源",
+    "position": "银鹰制药"
+  },
+  {
+    "area": "齐齐哈尔",
+    "position": "富区青少年活动中心"
+  },
+  {
+    "area": "大兴安岭地区",
+    "position": "红旗社区"
+  },
+  {
+    "area": "临汾",
+    "position": "城南"
+  },
+  {
+    "area": "德宏州",
+    "position": "芒市人民政府综合楼"
+  },
+  {
+    "area": "济宁",
+    "position": "市第七中学"
+  },
+  {
+    "area": "上饶",
+    "position": "双创科技楼"
+  },
+  {
+    "area": "唐山",
+    "position": "消防缸窑路中队"
+  },
+  {
+    "area": "唐山",
+    "position": "路南电大"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "红旗小学"
+  },
+  {
+    "area": "呼和浩特",
+    "position": "海东办"
+  },
+  {
+    "area": "宿州",
+    "position": "皖北煤电集团"
+  },
+  {
+    "area": "安阳",
+    "position": "安钢职工学校"
+  },
+  {
+    "area": "包头",
+    "position": "昆区政府(启用200107)"
+  },
+  {
+    "area": "大同",
+    "position": "供排水公司(停运200102)"
+  },
+  {
+    "area": "大同",
+    "position": "大同市卫生学校(145)"
+  },
+  {
+    "area": "大同",
+    "position": "云冈站(145)"
+  },
+  {
+    "area": "大同",
+    "position": "图书馆(145)"
+  },
+  {
+    "area": "大同",
+    "position": "区一中(145)"
+  },
+  {
+    "area": "包头",
+    "position": "昆区政府"
+  },
+  {
+    "area": "章丘",
+    "position": "东山小学(新增191218)"
+  },
+  {
+    "area": "七台河",
+    "position": "葫头沟(对照点)"
+  },
+  {
+    "area": "济南",
+    "position": "泰兴公司(启用170519)"
+  },
+  {
+    "area": "济南",
+    "position": "莱芜战役纪念馆(启用170603)"
+  },
+  {
+    "area": "大同",
+    "position": "第二人民医院"
+  },
+  {
+    "area": "济南",
+    "position": "济南四建(启用200106)"
+  },
+  {
+    "area": "七台河",
+    "position": "新建矿广场(启用200107)"
+  },
+  {
+    "area": "南昌",
+    "position": "外国语学校(启用200108)"
+  },
+  {
+    "area": "济南",
+    "position": "济南四建"
+  },
+  {
+    "area": "七台河",
+    "position": "新建矿广场"
+  },
+  {
+    "area": "南昌",
+    "position": "外国语学校"
+  },
+  {
+    "area": "银川",
+    "position": "贺兰山马莲口(对照点)"
+  },
+  {
+    "area": "银川",
+    "position": "水乡路"
+  },
+  {
+    "area": "通辽",
+    "position": "老干部活动中心"
+  },
+  {
+    "area": "大兴安岭地",
+    "position": "红旗社区"
+  },
+  {
+    "area": "鸡西",
+    "position": "环保局"
+  },
+  {
+    "area": "鸡西",
+    "position": "气象局(对照点)"
+  },
+  {
+    "area": "雅安",
+    "position": "康养中心(对照点)"
+  },
+  {
+    "area": "鸡西",
+    "position": "欧美日汽修厂"
+  },
+  {
+    "area": "通辽",
+    "position": "东方明珠社区"
+  },
+  {
+    "area": "鸡西",
+    "position": "市政设施管理处"
+  },
+  {
+    "area": "宁波",
+    "position": "白沙活动中心"
+  },
+  {
+    "area": "四平",
+    "position": "世纪城"
+  },
+  {
+    "area": "蚌埠",
+    "position": "蚌埠田家炳中学"
+  },
+  {
+    "area": "阿里地区",
+    "position": "阿里地区藏医院"
+  },
+  {
+    "area": "昌都",
+    "position": "昌都会议中心"
+  },
+  {
+    "area": "那曲",
+    "position": "那曲监测站"
+  },
+  {
+    "area": "那曲",
+    "position": "那曲会议中心"
+  },
+  {
+    "area": "日喀则",
+    "position": "林业技术推广中心"
+  },
+  {
+    "area": "蓬莱",
+    "position": "环保局"
+  },
+  {
+    "area": "蓬莱",
+    "position": "沙河桥"
+  },
+  {
+    "area": "瓦房店",
+    "position": "文圣社区"
+  },
+  {
+    "area": "淮南",
+    "position": "经开区消防队"
+  },
+  {
+    "area": "七台河",
+    "position": "人民广场"
+  },
+  {
+    "area": "宜宾",
+    "position": "白酒学院"
+  },
+  {
+    "area": "和田地区",
+    "position": "地区环保局"
+  },
+  {
+    "area": "和田地区",
+    "position": "市环保局"
+  },
+  {
+    "area": "瓦房店",
+    "position": "抱龙社区"
+  },
+  {
+    "area": "运城",
+    "position": "水利职院"
+  },
+  {
+    "area": "运城",
+    "position": "禹都公园"
+  },
+  {
+    "area": "青岛",
+    "position": "李沧区北部"
+  },
+  {
+    "area": "胶南",
+    "position": "黄岛区4号(新增191220)"
+  }
+]
